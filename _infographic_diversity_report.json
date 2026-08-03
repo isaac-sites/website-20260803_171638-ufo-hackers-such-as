@@ -1,0 +1,5127 @@
+{
+  "generated_at_utc": "2026-08-03T16:05:42.644229Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 213,
+    "pages_review_recommended": 1,
+    "warning_reason_counts": {
+      "single_reader_role": 1
+    }
+  },
+  "pages": [
+    {
+      "basename": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_non_terrestrial_offi_05556c",
+      "title": "What Did 'Non Terrestrial Officers' Actually Mean?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "comparison_columns",
+        "myth_facts"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Contents of the Non Terrestrial Spreadsheet",
+        "Interpretations of Non Terrestrial Officers",
+        "Evidence Gaps in the Mc Kinnon Claim"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.333,
+      "review_recommended": true,
+      "warning_reasons": [
+        "single_reader_role"
+      ]
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece",
+      "title": "What Did the UFO Hackers Actually Find?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Extradition Time line",
+        "Interpretations of Hacked Data",
+        "Notable British UFO Hackers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+      "title": "Did Official Reviews Find a Hidden Alien Programme?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "AARO Historical Record Review Process",
+        "Kona Blue Proposal vs Reality",
+        "Factors Explaining Misidentified Programs"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_aaro_review_scope_9e2942",
+      "title": "What Did AARO Actually Investigate?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "AARO Historical Review Methodology",
+        "AARO Findings on Secret Programs",
+        "AARO Evidence Verification Results"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_alleged_ufo_metal_te_a437d0",
+      "title": "What Was the Alleged UFO Metal Really Made Of?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "ORNL Metallic Specimen Testing Pipeline",
+        "Specimen Claims vs. Laboratory Findings",
+        "Composition of the Magnesium Specimen"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_circular_reporting_c_7b801d",
+      "title": "How One Alien Story Became Many Witnesses",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Circular Reporting Mechanism in UAP Claims",
+        "Independent Evidence vs. Circular Reporting",
+        "AARO Investigation Evidence Criteria"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_classified_project_c_893c2a",
+      "title": "When Secret Weapons Looked Like Alien Technology",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "grid_stats"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Mechanism of Misinterpreted Secret Programs",
+        "AARO Findings on Alien Claims",
+        "Historical Examples of Secrecy Misinterpretation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_contractor_alien_cla_470141",
+      "title": "Did Defence Contractors Receive Alien Hardware?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "AARO Investigation Methodology",
+        "Evidence vs. Allegation Analysis",
+        "Required Governance Footprints"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_kona_blue_proposal_bfa16f",
+      "title": "Was Kona Blue a Real Alien Programme?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Kona Blue Proposal Lifecycle",
+        "Kona Blue Narrative vs. Records",
+        "Proposed Kona Blue Objectives"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+      "title": "Does Prosecution Prove a UFO Cover Up?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Legal Case Time line",
+        "Evidence Standards for UFO Cover ups",
+        "Reasons for Severe Computer Prosecution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_authenticate_alleged_ba1f37",
+      "title": "What Would Make a Leaked UFO File Verifiable",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Digital Forensic Verification Process",
+        "Mc Kinnon Claims vs Forensic Standards",
+        "Indicators of Authentic Records"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_charges_do_not_prove_fcd5ba",
+      "title": "Why Hacking Charges Cannot Confirm UFO Secrets",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "comparison_columns",
+        "orbital_rings"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Legal Prosecution Scope",
+        "Legal Facts vs. UFO Claims",
+        "Evidence Required for Cover up Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_classification_not_c_92d015",
+      "title": "Why Secret Files Do Not Automatically Prove a Cover Up",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evidence Requirements for Concealment Claims",
+        "Classification vs. Deliberate Cover up",
+        "Legitimate Reasons for Government Secrecy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_computer_crime_proof_153ceb",
+      "title": "What Prosecutors Must Prove in Government Hacking Cases",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "satellite_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "geography"
+      ],
+      "titles": [
+        "UK Computer Misuse Act Prosecution Elements",
+        "UK vs US Computer Crime Statutes",
+        "CFAA Prosecution Evidence Requirements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_mckinnon_extradition_d54fba",
+      "title": "What Mc Kinnon's Extradition Decision Really Established",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Extradition Legal Path",
+        "Legal Fact vs. UFO Claims",
+        "Factors Blocking UK Prosecution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_military_breach_resp_287589",
+      "title": "Why Military Network Breaches Draw Such Strong Responses",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Military Network Intrusion Response Flow",
+        "Intruder Motivation vs Technical Evidence",
+        "Operational Risks of Network Breach"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f",
+      "title": "Was the NASA Image Really a Spacecraft?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Remote Access Key Stages",
+        "Interpretations of the NASA Image",
+        "Technical Constraints of the Sighting"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_missing_scale_geomet_bb90e6",
+      "title": "Why the Image Could Not Show How Big It Was",
+      "infographic_count": 3,
+      "templates": [
+        "prism",
+        "cards_grid",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "taxonomy",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Missing Data in Mc Kinnon's NASA Image",
+        "Ambiguity of Single Still Images",
+        "Requirements for Reliable Scale"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_ordinary_space_objec_8ca963",
+      "title": "What Ordinary Space Hardware Could Match Mc Kinnon's Description?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Conventional Orbital Hardware Candidates",
+        "Visual Ambiguity in Space Photography",
+        "Limitations of the Mc Kinnon Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_original_file_forens_8a1e5f",
+      "title": "Original File Forens",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "NASA Image Forensic Verification Steps",
+        "Archival vs Public NASA Imagery",
+        "Hardware Comparison Criteria"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_partial_image_render_95a28a",
+      "title": "Could an Unfinished Image Have Looked Like a Craft?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Remote Desktop Image Rendering Key Stages",
+        "Image Rendering Interpretations of Mc Kinnon's Sighting",
+        "Technical Factors Influencing Visual Distortion"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_reflection_compressi_d8095d",
+      "title": "Could Image Artefacts Explain the Smooth Silvery Object?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Remote Viewing Degradation Key Stages",
+        "Optical Artifacts vs. Spacecraft Claims",
+        "Visual Degradation Mechanisms in NASA Imagery"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_remote_display_disto_363be9",
+      "title": "Did the Remote Display Distort the Cigar Shape?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Remote Viewing Process",
+        "Visual Fidelity vs. Interpretation",
+        "Details Lost in Low Bit Display"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c",
+      "title": "Why Were British Hackers Targeting America?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Chronology of British UFO Hacking",
+        "Hacker Intent vs. Security Reality",
+        "Components of the Transatlantic Breach"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_bevan_ufo_motive_482ad1",
+      "title": "Why Mathew Bevan Chased UFO Secrets in America",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "bullseye",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Mathew Bevan's Target Selection Process",
+        "Bevan's Targeted Defense Networks",
+        "Evidence of Bevan's Motivations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_distance_defence_sec_4bb89e",
+      "title": "When Distance Stopped Protecting US Defence Networks",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Remote Intrusion Key Stages",
+        "Shift in US Defence Security Assumptions",
+        "Weaknesses Exposed by British Cases"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_pryce_rome_intrusion_801931",
+      "title": "How a London Teen Reached Rome Laboratory",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rome Laboratory Intrusion Key Stages",
+        "Pryce vs. Bevan Motivations",
+        "Rome Laboratory Security Vulnerabilities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_rome_espionage_alarm_1f2fea",
+      "title": "Why Rome Laboratory Looked Like a Spy Attack",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Rome Laboratory Intrusion Time line",
+        "Espionage vs. Amateur Hacking Profiles",
+        "Rome Laboratory Security Risks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_rome_network_pivotin_6782aa",
+      "title": "How One Rome Breach Opened Wider Defence Networks",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rome Laboratory Network Pivoting Key Stages",
+        "Attack Mechanisms: Sniffers vs Trojan Horses",
+        "Rome Laboratory Security Lessons"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_us_targets_british_h_c0f92c",
+      "title": "Why British UFO Hackers Targeted American Systems",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Network Intrusion Path",
+        "Hacker Motivations vs. Security Realities",
+        "Factors Attracting US Government Targets"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1",
+      "title": "How One UFO Claim Becomes Many Sources",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Stages of Quotation Degradation",
+        "Mc Kinnon Claims vs. Verifiable Evidence",
+        "Mechanics of Circular Reporting"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_hacking_credibility_bd556e",
+      "title": "When Proven Hacking Made UFO Claims Seem Proven",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "orbital_rings"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Extradition Time line",
+        "Verified Access vs. Unverified Interpretation",
+        "The Credibility Halo Mechanism"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_mckinnon_citation_la_13191c",
+      "title": "How One UFO Claim Became Many Sources",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Citation Laundering Chain",
+        "Publication vs. Evidential Independence",
+        "Criteria for Independent Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_mckinnon_lost_caveat_bcbee7",
+      "title": "What Later Stories Left Out of Mc Kinnon's Claims",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Narrative Compression of Mc Kinnon Claims",
+        "Mc Kinnon's Original vs. Retold Claims",
+        "Factors Driving Narrative Certainty"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_mckinnon_source_audi_c62e4e",
+      "title": "How to Check Whether a Mc Kinnon Claim Is Independent",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "satellite_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "geography"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Narrative Propagation Path",
+        "Evidence Types in Mc Kinnon Case",
+        "Source Audit Verification Hierarchy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_media_variety_false_8e068a",
+      "title": "Why Many Formats Did Not Mean More Evidence",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Degradation of Attribution in Media",
+        "Visibility vs. Evidential Independence",
+        "Mc Kinnon Narrative Distribution Channels"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_wired_interview_sour_93b891",
+      "title": "The Interview Behind Most Mc Kinnon UFO Retellings",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Wired Interview Path",
+        "Mc Kinnon's UFO Claim Qualifications",
+        "Core Claims from Wired Interview"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_classified_programme_4e923d",
+      "title": "When Classified Technology Looks Extraterrestrial",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in Classified Aircraft Sightings",
+        "Roswell Debris Interpretations",
+        "Mechanisms of Information Gaps"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_classified_programme_4e923d_a12_oxcart_sightings_805428",
+      "title": "The Secret Jet That Outran Recognition",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "A 12 OXCART Operational Secrecy Layers",
+        "A 12 Performance vs Public Expectations",
+        "Factors Driving Misidentification of A 12"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_classified_programme_4e923d_avrocar_military_sau_1ff9e4",
+      "title": "The Military Saucer That Actually Existed",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Avrocar Engineering and Flight Logic",
+        "Avrocar Performance vs. Expectations",
+        "Factors Fueling UFO Speculation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_classified_programme_4e923d_f117_black_triangle_91e9e7",
+      "title": "How the F 117 Became a Black Triangle",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "F 117 Secrecy and Public Perception",
+        "F 117 vs. UFO Interpretations",
+        "Factors Driving 'Black Triangle' Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_classified_programme_4e923d_roswell_project_mogu_55e357",
+      "title": "What Was Roswell Secrecy Really Protecting?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Roswell Incident Official Time line",
+        "Project Mogul vs. UFO Claims",
+        "Project Mogul Technical Components"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_classified_programme_4e923d_secret_aircraft_theo_43e136",
+      "title": "Can Secret Aircraft Explain Too Much?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "venn",
+        "grid_stats"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Evidence Led vs Speculative Explanations",
+        "Categories of UFO Explanations",
+        "CIA and AARO Historical Findings"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_classified_programme_4e923d_u2_ufo_sightings_dd944c",
+      "title": "Why U 2 Flights Looked Otherworldly",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "U 2 Optical Illusion Mechanism",
+        "U 2 Sightings vs. Other UFOs",
+        "Factors of U 2 Secrecy"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9",
+      "title": "Does Curiosity Make Illegal Hacking Less Serious?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Public Interest Hacking Test",
+        "Intent vs. Motive in Hacking",
+        "Culpability Factors for Curiosity Hacking"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curiosity_unauthoris_d9ad84",
+      "title": "When Does Curiosity Become a Computer Crime?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Curiosity Driven Hacking Progression",
+        "Motive vs. Legal Intent",
+        "Lawful vs. Criminal Curiosity"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curious_hacking_aggr_711c96",
+      "title": "What Turns Curious Hacking Into Serious Harm?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "comparison_columns",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Factors Escalating Hacking Culpability",
+        "Mc Kinnon Case: Motive vs Conduct",
+        "Escalation of Cyber Culpability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_hacker_motive_chargi_612c30",
+      "title": "How Much Should a Hacker's Motive Matter?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "gem"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "other"
+      ],
+      "titles": [
+        "Crown Prosecution Service Decision Flow",
+        "Curiosity vs Profit in Hacking",
+        "Gary Mc Kinnon Case Study Elements"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_mckinnon_ufo_motive_5f57ae",
+      "title": "Why Mc Kinnon's UFO Motive Was Not a Defence",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Targeted Research Goals",
+        "Legal Distinction: Intent vs Motive",
+        "Hierarchy of Computer Misuse Law"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_public_interest_hack_dadc81",
+      "title": "Can a Public Interest Claim Ever Justify Hacking?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Criteria for Credible Public Interest Claims",
+        "Motive vs. Legal Liability in Hacking",
+        "Indicators of Restrained Conduct"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_responsible_disclosu_5d58bc",
+      "title": "Where Security Research Ends and Intrusion Begins",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Responsible Vulnerability Disclosure Process",
+        "Research vs. Intrusion Conduct",
+        "Legal Authorization Sources for Testing"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0",
+      "title": "Why Early Government Networks Were Easy Targets",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Intrusion Mechanism",
+        "Federal Security: Then vs Now",
+        "Common Federal Access Deficiencies"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_army_corps_credentia_0b9bf4",
+      "title": "How Exposed Passwords Threatened Wider Defense Networks",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Credential Theft Propagation Mechanism",
+        "Corps of Engineers Security Deficiencies",
+        "GAO Audit Security Shortcomings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_defense_attack_detec_7a754e",
+      "title": "How Many Pentagon Intrusions Went Unnoticed?",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "comparison_columns",
+        "satellite_map"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "geography"
+      ],
+      "titles": [
+        "Do D Network Security Detection Gap",
+        "1996 GAO Defense Security Metrics",
+        "Structural Barriers to Detection"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_government_network_b_48a43c",
+      "title": "Why Nobody Could See the Whole Government Network",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Federal IT Governance",
+        "Decentralized vs. Centralized Security",
+        "Factors of the Mc Kinnon Era Vulnerability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_internal_trust_netwo_8abf00",
+      "title": "Why One Trusted Computer Could Unlock Many More",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Intrusion Progression",
+        "Internal Trust vs. Modern Security",
+        "Factors Enabling Lateral Movement"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_rome_lab_trusted_hos_120e44",
+      "title": "When a Military Lab Became an Attack Platform",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "orbital_rings",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Rome Laboratory Intrusion Key Stages",
+        "Targets Reached via Rome Laboratory",
+        "Structural Weaknesses in 1990 s Networks"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_solar_sunrise_missin_8ea0c6",
+      "title": "How One Missed Patch Opened Government Networks",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "structure_taxonomy",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Solar Sunrise Intrusion Progression",
+        "Solar Sunrise Patching Barriers",
+        "Lessons from Solar Sunrise"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.4,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d",
+      "title": "How Can a UFO Hacking Story Be Verified?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Digital Forensic Verification Workflow",
+        "UFO Hacking Claim Evidence Tiers",
+        "Technical Indicators for File Authenticity"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_agency_jargon_ufo_cl_039efd",
+      "title": "Does Strange Government Language Really Mean Aliens?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Evaluating Unusual Government Terminology",
+        "Interpreting 'Non Terrestrial Officers'",
+        "Characteristics of Misleading Labels"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_link_file_to_breach_0a2310",
+      "title": "Can the Claimed File Be Traced to the Breach?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Mapping Files to Compromised Systems",
+        "Breach Confirmation vs. File Authenticity",
+        "Evidence Gaps in UFO Hacking Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_memory_only_ufo_clai_586cb9",
+      "title": "How Much Weight Should Memory Only UFO Claims Carry?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Memory Reconstruction Mechanisms",
+        "Gary Mc Kinnon Case Evidence",
+        "Factors Weakening Memory Reliability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_spacecraft_image_ori_5275c2",
+      "title": "What Would Prove an Alleged Spacecraft Image Is Real?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Digital Forensics Provenance Workflow",
+        "Image Artifacts vs. Physical Objects",
+        "Evidence Requirements for Credibility"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_ufo_file_chain_of_cu_b6c207",
+      "title": "What Makes a Leaked UFO File Trustworthy?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "NIST Digital Evidence Acquisition Steps",
+        "Credible vs. Weak UFO Evidence",
+        "Handling Records for Integrity"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_ufo_file_metadata_ch_a8c57b",
+      "title": "Can Metadata Reveal a Fake UFO File?",
+      "infographic_count": 3,
+      "templates": [
+        "circuit_board",
+        "fact_box_sidebar",
+        "timeline_snake"
+      ],
+      "roles": [
+        "other",
+        "summary",
+        "chronology"
+      ],
+      "titles": [
+        "Metadata Fields in UFO Forensics",
+        "Metadata Reliability vs. Manipulation",
+        "Verifying UFO Hacking Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+      "title": "What Did Gary Mc Kinnon Actually Find?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Extradition Legal Time line",
+        "Disputed Claims of UFO Evidence",
+        "Cybersecurity Vulnerabilities Exposed by Mc Kinnon"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_damage_clai_fc4f9b",
+      "title": "Mckinnon Damage Clai",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "satellite_map",
+        "grid_stats"
+      ],
+      "roles": [
+        "summary",
+        "geography",
+        "other"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Case Interpretations",
+        "Alleged Damages to US Systems",
+        "Financial and Scale Metrics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_entry_metho_9c5295",
+      "title": "Mckinnon Entry Metho",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tree_map",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Network Entry Key Stages",
+        "Security Failures in NASA Networks",
+        "Mc Kinnon Actions vs. Prosecution Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.182,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_extradition_0bc173",
+      "title": "Mckinnon Extradition",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Extradition Legal Key Stages",
+        "Extradition vs. Criminal Trial Scope",
+        "Factors Blocking Gary Mc Kinnon Extradition"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.444,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_extradition_5824dd",
+      "title": "Why Did Mc Kinnon Face Extradition to America?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Extradition Legal Time line",
+        "US vs UK Legal Perspectives",
+        "US Government Systems Targeted"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_nasa_image_cdb367",
+      "title": "Mckinnon NASA Image",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Remote Access Key Stages",
+        "Interpretations of the NASA Image",
+        "Evidence Gaps in Mc Kinnon's Claim"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_ufo_verific_a800a1",
+      "title": "Mckinnon UFO Verific",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's NASA System Intrusion",
+        "Interpretations of Missing NASA Files",
+        "Unverifiable Evidence in Mc Kinnon Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_non_terrestrial_offi_e211e8",
+      "title": "Non Terrestrial Offi",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "structure_taxonomy",
+        "cards_grid"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "Interpretations of Non Terrestrial Officers",
+        "Mc Kinnon's Observed Spreadsheet Data",
+        "Missing Metadata for Verification"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80",
+      "title": "Why Strange Government Files May Mean Nothing Exotic",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Verifying Government Digital Records",
+        "Authentic Records vs. Simulated Data",
+        "Military and Intelligence Terminology"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_draft_files_look_fin_4bb170",
+      "title": "When a Government Draft Looks Officially Final",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Government Document Lifecycle Stages",
+        "Appearance vs. Institutional Authority",
+        "Indicators of Draft Status"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_military_code_names_9a55aa",
+      "title": "Do Strange Code Names Reveal Their Real Subject?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Military Code Name Assignment Process",
+        "Interpreting Suggestive Military Labels",
+        "Types of Military Naming Labels"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_military_exercise_fi_8a240b",
+      "title": "Could a Secret Looking File Be a War Game?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Construction of Military Exercise Injects",
+        "Realism vs. Fiction in Training",
+        "Factors Masking Exercise Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_missing_metadata_fil_6d844c",
+      "title": "What Vanishes When a File Loses Its Context?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Metadata Lifecycle in Government Records",
+        "Limitations of Screen shots vs. Metadata",
+        "Interpretations of Stripped Metadata Files"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_server_location_not_7adb29",
+      "title": "A Government Server Is Not a Seal of Truth",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "list_vertical",
+        "process_pipeline"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Authenticity vs Institutional Authority",
+        "Common Files on Government Networks",
+        "Verifying Government Document Authority"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_test_data_secret_mis_507fe2",
+      "title": "Are Strange Rosters Real or Just Test Data?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Synthetic Data Development Lifecycle",
+        "Test Data vs. Production Records",
+        "Attributes of Realistic Test Data"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1",
+      "title": "How Roswell Inspired Mathew Bevan's Intrusions",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Mathew Bevan's Hacking Progression",
+        "Interpretations of Wright Patterson Data",
+        "Rome Laboratory Intrusion Impact"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_bevan_gravity_files_476695",
+      "title": "What Was Really in Bevan's Gravity Files?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Bevan's Logic for Roswell Connection",
+        "Bevan's Early vs. Later Claims",
+        "Technical Elements of Gravity Files"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_bevan_prosecution_co_7ba91a",
+      "title": "Why Bevan's Case Ended Without a Trial",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mathew Bevan Prosecution Time line",
+        "Bevan Acquittal Interpretations",
+        "Obstacles to International Prosecution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_official_record_beva_5328a5",
+      "title": "What the Official Record Actually Proves",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Rome Laboratory Network Intrusion Key Stages",
+        "Bevan Claims vs. Official Records",
+        "Impact of the 1994 Hacking Campaign"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_propulsion_not_roswe_e3e144",
+      "title": "Why Strange Propulsion Research Did Not Prove Roswell",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "cards_grid",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Interpreting Wright Patterson Propulsion Data",
+        "Types of Defense Research Funding",
+        "Evaluating Gravity Research Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_rome_lab_launch_poin_9398d6",
+      "title": "How Rome Laboratory Opened the Wider Network",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "circuit_board",
+        "rank_podium"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "data"
+      ],
+      "titles": [
+        "Rome Laboratory Intrusion Time line",
+        "Rome Laboratory Network Reach",
+        "Rome Laboratory Sniffer Statistics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_wright_patterson_ros_333148",
+      "title": "Why Roswell Led Bevan to Wright Patterson",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Wright Patterson's Evolution in UFO Lore",
+        "Bevan's Beliefs vs. Official Records",
+        "Factors Shaping Wright Patterson's Reputation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7",
+      "title": "How Were Military Networks Left So Exposed?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Intrusion Key Stages",
+        "Mc Kinnon Access Interpretations",
+        "Institutional Security Failures"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_automated_network_sc_cc9451",
+      "title": "How Mass Scanning Found the Weakest Machines",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Reconnaissance Key Stages",
+        "Scanning Scale vs. Compromise Count",
+        "Security Failures in the Mc Kinnon Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_blank_admin_password_724e01",
+      "title": "Blank Admin Password",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Network Intrusion Key Stages",
+        "Administrator vs. Standard User Accounts",
+        "Root Causes of Government System Exposure"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_cloned_windows_weakn_d5affb",
+      "title": "When One Bad Setup Spread Everywhere",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "comparison_columns"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Windows Image Deployment Risks",
+        "Data Captured in Windows Images",
+        "Standardization Security Tradeoffs"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_detection_coordinati_2d8d61",
+      "title": "Why Government Defenses Reacted So Slowly",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Intrusion Time line",
+        "Do D Security Weaknesses Identified by GAO",
+        "Consequences of Delayed Detection"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_lateral_movement_rou_5a8e24",
+      "title": "Lateral Movement Rou",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Lateral Movement Key Stages",
+        "Internal Trust Vulnerability Analysis",
+        "Mc Kinnon Credential Theft Utility"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_remotelyanywhere_per_b8ae67",
+      "title": "Remotelyanywhere Per",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Persistence Strategy",
+        "Remotely Anywhere vs. Traditional Backdoors",
+        "Forensic Evidence from Commercial Tools"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4",
+      "title": "How the Mc Kinnon Case Unfolded",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "orbital_rings"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Intrusion Chronology",
+        "Disputed Claims of Intent and Damage",
+        "Scope of Targeted Government Systems"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_earle_april_foothold_d445c5",
+      "title": "How One Earle Breach Became a Lasting Foothold",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "structure_taxonomy",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "NWS Earle Persistence Key Stages",
+        "Port Services Computer Significance",
+        "Prosecution Narrative vs. Defense Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_earle_password_theft_b76aa8",
+      "title": "How 950 Passwords Deepened the Earle Intrusion",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "circuit_board",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "NWS Earle Intrusion Key Stages",
+        "Prosecution Theory of Persistence",
+        "NWS Earle Data Breach Scope"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_earle_september_flas_8c54e4",
+      "title": "Why the September Earle Incident Mattered So Much",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "venn",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Earle Network Intrusion Time line",
+        "Competing Narratives of the Earle Intrusion",
+        "Damage Assessment at Naval Weapons Station Earle"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_mckinnon_intrusion_t_1f489e",
+      "title": "Why Do Mc Kinnon's Computer Totals Differ?",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "list_vertical",
+        "comparison_columns"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Extradition Record Totals",
+        "Agency Breakdown of 97 Computers",
+        "Extradition vs. Virginia Indictment Scope"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_mckinnon_march_2002_717823",
+      "title": "How Mc Kinnon's Intrusion Timeline Ended in London",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tree_map",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Investigation Time line 2001 2002",
+        "Forensic Evidence from Seized Equipment",
+        "Shift from Technical to Criminal Investigation"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.091,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_mckinnon_wider_campa_c74557",
+      "title": "How Far Did Mc Kinnon's US Intrusions Spread?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "orbital_rings",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Mc Kinnon's Network Intrusion Key Stages",
+        "US Government Computers Accessed",
+        "Competing Narratives of Intent"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872",
+      "title": "Was Mc Kinnon a Searcher or a Saboteur?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Extradition Legal Time line",
+        "Mc Kinnon's Motive vs. US Allegations",
+        "Specific US Damage Allegations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_army_deleted_account_6be86f",
+      "title": "What Happened to 2,455 Army User Accounts?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "US Army Network Disruption Chain",
+        "Contested Allegations in Mc Kinnon Case",
+        "Network Disruption Mechanisms"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_changing_damage_tota_664129",
+      "title": "Why Did Mc Kinnon's Damage Estimate Drop?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Prosecution Time line",
+        "Interpreting the $900,000 vs $700,000 Gap",
+        "Factors Influencing Loss Calculations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_dialup_damage_plausi_3ad8ac",
+      "title": "Could 56 k Dial Up Really Disable Military Systems?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "quadrant",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Data Limits of 56 k Dial Up",
+        "Bandwidth vs. Administrative Privilege",
+        "Remote Sabotage Mechanism Steps"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_earle_damage_costs_1b7e7f",
+      "title": "What Made Up the $290,431 Earle Damage Claim?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "gem",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Naval Weapons Station Earle Intrusion Key Stages",
+        "Components of the $290,431 Damage Claim",
+        "Indictment Claims vs. Court Awards"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_military_district_sh_37fbcf",
+      "title": "Did Nine Deleted Files Disable 2,000 Military Computers?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "comparison_columns",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Alleged Network Shutdown Mechanism",
+        "Discrepancies in Shutdown Duration",
+        "Evidential Gaps in MDW Allegations"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_untested_damage_clai_e9045c",
+      "title": "Why Mc Kinnon's Damage Case Remains Unresolved",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Extradition Time line",
+        "Mc Kinnon Case Legal Distinctions",
+        "Trial Evidence Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0",
+      "title": "Why Did Mc Kinnon's Extradition Become So Controversial?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Extradition Time line",
+        "Conflicting Interpretations of Conduct",
+        "Legacy of the Mc Kinnon Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_cross_borde_fce0e0",
+      "title": "Where Did Mc Kinnon's Alleged Crime Really Happen?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "satellite_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "geography"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Extradition Legal Key Stages",
+        "Competing Jurisdictional Claims in Gary Mc Kinnon Case",
+        "Elements of Cybercrime Jurisdiction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.273,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_forum_bar_c7c616",
+      "title": "The Legal Safeguard Mc Kinnon's Case Lacked",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "versus",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Extradition Legal Evolution",
+        "Jurisdictional Claims in Mc Kinnon Case",
+        "Forum Bar Judicial Criteria"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_human_right_b8b52c",
+      "title": "Why Human Rights Finally Halted the Extradition",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Extradition Legal Time line",
+        "Legal Thresholds for Extradition",
+        "Factors in the 2012 Decision"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_plea_bargai_95b1b6",
+      "title": "Was Mc Kinnon Pressured to Plead Guilty?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "process_steps",
+        "versus"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "comparison"
+      ],
+      "titles": [
+        "Mc Kinnon Extradition Sentencing Options",
+        "House of Lords Legal Review",
+        "Arguments Against Extradition Pressure"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_treaty_bala_6aa40c",
+      "title": "Was the Extradition Treaty Stacked Against Mc Kinnon?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Extradition Legal Time line",
+        "Extradition Standard Interpretations",
+        "Factors in Extradition Fairness"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_uk_prosecut_0bee9e",
+      "title": "Why Wasn't Mc Kinnon Tried in Britain?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "structure_taxonomy",
+        "timeline_snake"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "chronology"
+      ],
+      "titles": [
+        "Arguments for British Prosecution Forum",
+        "DPP Factors for US Jurisdiction",
+        "High Court Judicial Review Path"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013",
+      "title": "How Should Vulnerability Affect Hacker Prosecutions?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Extradition Time line",
+        "Extradition vs. Domestic Prosecution",
+        "Proportionality Assessment Criteria"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_autism_hacker_culpab_dbbcef",
+      "title": "Does Autism Reduce Responsibility for a Cybercrime Offence?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Sentencing Council Culpability Assessment",
+        "Diagnosis vs. Impaired Decision Making",
+        "Factors Influencing Cybercrime Culpability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_cybercrime_mental_he_7ecb64",
+      "title": "What Mental Health Evidence Should Courts Actually Trust?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "The Court's Implementation Test Framework",
+        "Diagnosis vs. Evidential Weight",
+        "Practical Treatment Assessment Factors"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_domestic_trial_vs_ex_e451ca",
+      "title": "Can a Domestic Trial Deliver Justice Without Extradition?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "UK Forum Decision Process",
+        "Domestic Trial vs Extradition",
+        "Domestic Sentencing Alternatives"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_extradition_dispropo_2aa811",
+      "title": "When Does Extradition Become Inhumane for Vulnerable Defendants?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Extradition Risk Assessment Process",
+        "Prosecution vs Extradition Harm",
+        "Factors Influencing Inhumane Extradition"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_forum_bar_hacker_ext_646198",
+      "title": "How the Forum Bar Rebalanced Hacker Extradition",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "UK Forum Bar Judicial Process",
+        "Traditional vs Remote Cybercrime",
+        "Statutory Interests of Justice Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_mckinnon_suicide_ris_0a249d",
+      "title": "Why Suicide Risk Changed Mc Kinnon's Extradition Case",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Extradition Legal Time line",
+        "Extradition Thresholds in Mc Kinnon Case",
+        "Factors Influencing the 2012 Decision"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319",
+      "title": "Why Military Networks Drew UFO Hackers",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "fact_box_sidebar",
+        "earth_core"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Network Intrusion Path",
+        "UFO Hacking Evidence Interpretations",
+        "Layers of Military Secrecy Logic"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_compartmentation_ufo_992cb0",
+      "title": "Can Military Compartmentation Create Its Own UFO Myths?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanism of Military Compartmentation",
+        "Interpretations of Classified Secrecy",
+        "Rumor Circulation in Cleared Communities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_federal_security_gra_23d2d5",
+      "title": "How Weak Was US Government Cybersecurity in 2001?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Federal Cybersecurity Grading Process",
+        "Mc Kinnon Intrusion Interpretations",
+        "Documented Federal Security Weaknesses"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_rome_lab_ufo_hacking_2747b2",
+      "title": "How Rome Lab Became a UFO Hacking Precedent",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "orbital_rings"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Rome Laboratory Intrusion Progression",
+        "Interpretations of Rome Laboratory Breach",
+        "Rome Laboratory Infrastructure Connections"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_secret_aircraft_ufo_3552bf",
+      "title": "Why Secret Aircraft Made UFO Denials Hard to Trust",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evolution of Secret Reconnaissance Aircraft",
+        "Official Denial vs. Secret Reality",
+        "Mechanisms of UFO Misinterpretation"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_unclassified_militar_1767cb",
+      "title": "Why a Low Level Military Computer Still Mattered",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "orbital_rings"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Network Intrusion Key Stages",
+        "Unclassified vs. Classified Systems",
+        "Data Found in Unclassified Machines"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_unresolved_uap_image_a45a95",
+      "title": "Does an Unresolved Military Image Prove Alien Secrecy?",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "venn",
+        "timeline_vertical"
+      ],
+      "roles": [
+        "comparison",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Unresolved UAP Imagery Interpretations",
+        "Factors Limiting Military Sensor Analysis",
+        "Path from Detection to Conclusion"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301",
+      "title": "Why the Missing Evidence Changes Everything",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Digital Forensic Evidence Preservation Steps",
+        "Interpretations of Mc Kinnon's Findings",
+        "Evidence Requirements for Authentication"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_mckinnon_access_logs_e9dcc5",
+      "title": "What the Missing Access Logs Could Have Proved",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Digital Forensic Evidence Chain",
+        "Log Capabilities vs. Content Verification",
+        "Factors Limiting Forensic Reconstruction"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_mckinnon_file_metada_97e5bd",
+      "title": "What File Metadata Could Have Revealed",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "fact_box_sidebar",
+        "comparison_columns"
+      ],
+      "roles": [
+        "comparison",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Forensic Metadata Fields in NASA Files",
+        "Interpretations of Spreadsheet Data",
+        "Impact of Missing Metadata"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_missing_folder_paths_cdaafd",
+      "title": "Why Folder Paths Can Decide What a File Means",
+      "infographic_count": 3,
+      "templates": [
+        "tree_map",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Directory Paths and Ownership Indicators",
+        "Contextual Interpretations of Filenames",
+        "Neighboring Files as Forensic Evidence"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_original_altered_ima_9a6622",
+      "title": "Could Before and After Images Test the Removal Claim",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "NASA Scientific Image Processing Workflow",
+        "Evidence Gaps in Mc Kinnon Claims",
+        "Digital Forensic Safeguards for Images"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_remote_viewing_disto_82de2d",
+      "title": "Could the Remote Connection Have Changed the Image",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Remote Desktop Rendering Key Stages",
+        "Visual Fidelity Trade offs in Remote Viewing",
+        "Factors Increasing Observation Uncertainty"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_technical_memory_ret_5cf76a",
+      "title": "How Retelling Can Harden an Unverified Memory",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Memory Reconstruction of Technical Data",
+        "Memory vs. Preserved Digital Evidence",
+        "Missing Data Points in Mc Kinnon Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541",
+      "title": "Did Mc Kinnon See Records of a Secret Fleet?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Data Interpretation Key Stages",
+        "Interpretations of Naval Spreadsheet Data",
+        "Reasons for Unfamiliar Ship Names"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_fleet_transfer_exerc_74164d",
+      "title": "Could the Mystery Fleet Have Been a War Game?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "cards_grid",
+        "tug_of_war"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Interpretations of Mc Kinnon's Spreadsheet",
+        "Components of Realistic Military Exercises",
+        "Evidence for Exercise vs. Operation"
+      ],
+      "role_diversity_count": 1,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_later_mystery_ship_n_e85fcf",
+      "title": "Where the Famous Mystery Ship Names Came From",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Evolution of the Mc Kinnon Narrative",
+        "Mc Kinnon Vessel Name Discrepancies",
+        "Factors Driving UFO Folklore"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_naval_naming_convent_28ee8a",
+      "title": "The Ship Naming Rules Mc Kinnon Could Have Missed",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "US Navy Vessel Designations",
+        "Verifying Mc Kinnon's Ship Claims",
+        "Naval Identification Variables"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_solar_warden_lore_dd0def",
+      "title": "How Solar Warden Became Part of the Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Solar Warden Narrative",
+        "Mc Kinnon Claims vs. Public Narrative",
+        "Factors Driving Narrative Expansion"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_transfer_spreadsheet_9bb5c9",
+      "title": "Was It One Spreadsheet or Several Files?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of Mc Kinnon's Testimony",
+        "Interpretations of the Missing Workbook",
+        "Consistent Elements in Mc Kinnon's Testimony"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_unlisted_ship_names_e31121",
+      "title": "Why an Unlisted Ship Is Not Proof",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "list_vertical",
+        "process_steps"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Interpretations of Unlisted Navy Vessels",
+        "Naval Vessel Register Limitations",
+        "Analysis of Mc Kinnon's Evidence Chain"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+      "title": "What NASA Says About Alien Technology Claims",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "myth_facts"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "NASA UAP Evidence Verification Chain",
+        "UAP Observation vs. Scientific Evidence",
+        "NASA Data Deficiency Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_gofast_parallax_d88ec2",
+      "title": "Why the Go Fast UFO Looked So Fast",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "NASA Go Fast Geometry Analysis Workflow",
+        "Visual Impression vs. NASA Data",
+        "Go Fast Technical Data Points"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_uap_standard_reporti_8455c9",
+      "title": "Could Better Reporting Solve More UFO Cases?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "NASA UAP Data Standardization Process",
+        "Stigma vs. Scientific Reporting Models",
+        "Required Metadata for UAP Reports"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_ufo_image_metadata_abdb7f",
+      "title": "What Missing Metadata Hides in UFO Images",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Digital Degradation of UAP Evidence",
+        "Metadata vs. Visual Content Analysis",
+        "NASA Required UAP Metadata Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_ufo_multi_sensor_ver_46b04a",
+      "title": "What It Takes to Verify a UFO Sighting",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "NASA UAP Data Quality Requirements",
+        "Multi Sensor Detection Capabilities",
+        "Limitations of Single Camera Footage"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_ufo_sensor_calibrati_ed9655",
+      "title": "Can a Bad Sensor Create a UFO Mystery?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "NASA Sensor Calibration Workflow",
+        "Sensor Artifacts vs. Physical Anomalies",
+        "Critical Metadata for UAP Analysis"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_unidentified_not_ali_becdd7",
+      "title": "Why Unidentified Still Does Not Mean Alien",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "NASA Scientific Verification Process",
+        "UAP Label vs. Alien Claim",
+        "Common Data Shortcomings in UAP"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8",
+      "title": "Why Did UFO Hackers Target NASA?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's NASA Intrusion Path",
+        "NASA Image Processing Interpretations",
+        "NASA Security Vulnerabilities Identified"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8_building_8_ufo_claim_df2b75",
+      "title": "Why NASA's Building 8 Fueled UFO Suspicions",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Apollo Film Preservation Workflow",
+        "Building 8 Interpretations",
+        "Building 8 Archive Contents"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8_five_nasa_centres_e256c6",
+      "title": "Which NASA Centres Did Mc Kinnon Actually Reach?",
+      "infographic_count": 3,
+      "templates": [
+        "satellite_map",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "geography",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Undisclosed Details of NASA Compromise",
+        "Verified Evidence vs. Public Narratives",
+        "NASA Infrastructure and Breach Scope"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8_nasa_image_processin_cb6cb2",
+      "title": "Do Processed NASA Images Prove Anything Was Hidden?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "venn",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "NASA Scientific Image Production Workflow",
+        "Interpreting NASA Image Variations",
+        "Apollo Mission Archive Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8_nasa_open_networks_a98bdb",
+      "title": "How NASA's Open Science Culture Created Security Gaps",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "NASA Cybersecurity Governance Evolution",
+        "Collaboration vs. Security Trade offs",
+        "NASA Network Connectivity Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8_nasa_workstation_acc_c754c4",
+      "title": "Why Hacking One NASA Computer Proved So Little",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Multi Stage Intrusion Path",
+        "NASA Data Architecture Misconceptions",
+        "NASA Specialized Computing Categories"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8_nasa_workstation_fil_391e8b",
+      "title": "What Could Really Be Found on a NASA Workstation?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "NASA Image Processing Workflow",
+        "Mc Kinnon Claims vs. Forensic Reality",
+        "NASA Workstation Data Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c",
+      "title": "What Could 'Non Terrestrial Officers' Mean?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Data Intrusion Key Stages",
+        "Interpretations of Non Terrestrial Officers",
+        "Evidence Gaps in Mc Kinnon's Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_missing_officer_reco_eed22b",
+      "title": "Did Mc Kinnon's Officers Really Leave No Trace?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "tree_map",
+        "myth_facts"
+      ],
+      "roles": [
+        "summary",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "Interpretations of Missing Military Records",
+        "Barriers to Verifying Mc Kinnon's Claims",
+        "Military Record Accessibility Realities"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_officers_not_aliens_40fe93",
+      "title": "Were the Non Terrestrial Officers Supposed to Be Aliens?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Reasoning Key Stages",
+        "Mc Kinnon Claim vs. Public Retelling",
+        "Spreadsheet Data Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_official_records_off_f62d62",
+      "title": "Do Official Records Mention the Officers List?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Evidential Chain",
+        "Legal Record vs. Personal Claims",
+        "Missing Evidence in Court Records"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_solar_warden_link_8b8ed4",
+      "title": "When Did Solar Warden Enter Mc Kinnon's Story?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Evolution of the Solar Warden Narrative",
+        "Mc Kinnon Testimony vs. Later Interpretations",
+        "Factors Hardening UFO Folklore"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_unknown_ship_names_553011",
+      "title": "Were Mc Kinnon's Unknown Ships Really Spacecraft?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "versus",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Spreadsheet Analysis Logic",
+        "Alternative Explanations for Unmatched Names",
+        "Naval Vessel Register Limitations"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_workbook_metadata_cl_58b6a1",
+      "title": "Which Digital Clues Could Identify Mc Kinnon's Spreadsheet?",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "fact_box_sidebar",
+        "process_steps"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "process"
+      ],
+      "titles": [
+        "Metadata for Non Terrestrial Officers Workbook",
+        "Interpretations of Non Terrestrial Officers",
+        "Forensic Verification of Spreadsheet Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.5,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+      "title": "Who Was the Datastream Cowboy?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Data stream Cowboy Intrusion Path",
+        "Pryce vs. Bevan Motivation Claims",
+        "Rome Laboratory Impact Scope"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_datastream_trace_lon_51a58c",
+      "title": "How Datastream Cowboy Was Traced to a Bedroom",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "timeline_snake"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Tracing Data stream Cowboy to London",
+        "Technical Obfuscation vs Human Error",
+        "Evidence Chain for Rome Laboratory Case"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_foreign_spy_suspicio_02a14c",
+      "title": "Why a London Teenager Looked Like a Foreign Agent",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "earth_core"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Rome Laboratory Intrusion Investigation Path",
+        "Espionage vs. Individual Hacker Traits",
+        "Layers of the Data stream Cowboy Intrusion"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_korean_atomic_intrus_4605b6",
+      "title": "Why One Korean Intrusion Raised Diplomatic Fears",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Rome Laboratory Intrusion Time line",
+        "Diplomatic Risks of Attribution Failure",
+        "Cyber Security Lessons from Rome Laboratory"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_rome_data_damage_de9e07",
+      "title": "What Did the Rome Laboratory Intruders Really Access?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rome Laboratory Intrusion Progression",
+        "Confirmed vs. Unresolved Data Loss",
+        "Rome Laboratory Compromise Impacts"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_rome_laboratory_gate_9037db",
+      "title": "How Rome Laboratory Opened Doors Across US Networks",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "myth_facts",
+        "tug_of_war"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Rome Laboratory Intrusion Progression",
+        "Rome Laboratory Multi Role Impact",
+        "Systems Reached via Rome Lab"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_sniffers_password_ca_ab704a",
+      "title": "How Stolen Passwords Spread the Rome Laboratory Breach",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "venn",
+        "versus"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Rome Laboratory Sniffer Cascade",
+        "Rome Laboratory Sniffer Mechanics",
+        "Detection Challenges in Rome Laboratory"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.6,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1",
+      "title": "How One Weak System Opened a Defence Network",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rome Laboratory Breach Expansion Key Stages",
+        "Rome Laboratory Breach Impact Metrics",
+        "Rome Laboratory Security Failure Pillars"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1_rome_contractor_pivo_13642b",
+      "title": "How One Lab Breach Reached Defence Contractors",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rome Laboratory Credential Theft Key Stages",
+        "Mid 1990 s Network Vulnerabilities vs. Modern Risks",
+        "California and Texas Compromise Evidence"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1_rome_cost_and_exposu_891877",
+      "title": "What Was Really Lost in the Rome Laboratory Breach?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Rome Laboratory Breach Recovery Steps",
+        "Rome Laboratory Financial Metrics Comparison",
+        "Rome Laboratory Compromised Data Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1_rome_detection_gap_a088a0",
+      "title": "How Five Quiet Days Changed the Rome Breach",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "orbital_rings",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "Rome Laboratory Breach Time line 1994",
+        "Impact of Delayed Detection at Rome Lab",
+        "Detection Gap vs. Initial Breach"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1_rome_electronic_fish_3e24ff",
+      "title": "How Investigators Watched the Rome Hackers in Real Time",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "comparison_columns",
+        "geode"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Rome Laboratory Investigation Time line",
+        "Strategic Trade offs in Cyber Defense",
+        "Evidence Layers in the Rome Case"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1_rome_korean_institut_0f633b",
+      "title": "Could a Teen Hacker Look Like the US Government?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Rome Laboratory Intrusion Time line",
+        "Korean Atomic Research Attribution Risks",
+        "Factors Escalating Rome Laboratory Alarm"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1_rome_password_sniffe_77f3ba",
+      "title": "Why Stolen Logins Mattered More Than the First Hack",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rome Laboratory Intrusion Progression",
+        "Authentication vs. Trust Dynamics",
+        "Rome Laboratory Attack Consequences"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_space_image_artefact_05d565",
+      "title": "Could a Space Image Create a False UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Expert Space Imagery Authentication Process",
+        "Causes of Visual Space Anomalies",
+        "Mars Rover Landing Debris Types"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_cosmic_rays_object_s_9766fd",
+      "title": "When Cosmic Rays Look Like Tiny Spacecraft",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "How Cosmic Rays Create Detector Artifacts",
+        "Spacecraft vs. Cosmic Ray Artifacts",
+        "Factors Influencing Particle Strike Appearance"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_internal_reflections_de2f22",
+      "title": "Could Telescope Reflections Explain a Geometric UFO?",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Optical Path of Internal Reflections",
+        "Identifying Artifacts vs. Spacecraft",
+        "Common Optical Artifact Shapes"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_nearby_dust_false_sc_d5350d",
+      "title": "Could a Giant Space Object Be Nearby Dust?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Parallax Distance Measurement Process",
+        "Spacecraft Image Interpretation Risks",
+        "Factors Exaggerating Dust Appearance"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_partial_download_fal_afb2f6",
+      "title": "Can an Incomplete Download Invent a Spacecraft?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "comparison_columns",
+        "tug_of_war"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "other"
+      ],
+      "titles": [
+        "Digital Image Reconstruction Key Stages",
+        "Interpreting Corrupted NASA Imagery",
+        "Verified Space Image Failures"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_spacecraft_debris_al_0093bb",
+      "title": "Is That Alien Machinery or Mission Debris?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Mars 2020 Landing Debris Identification",
+        "Space Debris vs. Alien Machinery",
+        "Components of Discarded Spacecraft Hardware"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_verify_strange_space_e7517b",
+      "title": "What Would Actually Verify a Strange Space Image?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "FITS Data Processing Pipeline",
+        "Scientific FITS vs. Public JPEGs",
+        "Common Space Imaging Artefacts"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864",
+      "title": "Were UFO Hackers Searching for Free Energy?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "cards_grid",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Scientific Physics vs. Disclosure Claims",
+        "Gary Mc Kinnon's Hacking Motivation",
+        "AARO Historical Review Findings"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_classified_aircraft_3574ec",
+      "title": "When Secret Aircraft Look Like Alien Technology",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The Secrecy Loop of UFO Mythology",
+        "Classified Aviation vs. Alien Technology",
+        "Hierarchy of Aerospace Secrecy Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_disclosure_project_i_70341b",
+      "title": "Why Disclosure Claims Sent Mc Kinnon Searching",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Investigation Chain",
+        "Disclosure Project Core Allegations",
+        "Mc Kinnon's Motivation Drivers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_hidden_antigravity_p_c40cbd",
+      "title": "What Would Actually Prove Hidden Antigravity?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Evidential Chain for Antigravity Hardware",
+        "Evidence vs. Isolated Claims",
+        "Burden of Proof for UFO Claims"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_mckinnon_missing_evi_c4183b",
+      "title": "Why the Missing Evidence Changes Everything",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Remote Access Key Stages",
+        "Interpretations of Non Terrestrial Data",
+        "Missing Forensic Evidence Checklist"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_public_vacuum_propul_d7b2f2",
+      "title": "Was Unconventional Propulsion Really Suppressed?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "cards_grid",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "NASA Breakthrough Propulsion Physics Time line",
+        "Vacuum Propulsion Research Interpretations",
+        "Quantum Vacuum Research Layers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_zero_point_energy_li_45eb33",
+      "title": "Does Zero Point Energy Mean Free Power?",
+      "infographic_count": 3,
+      "templates": [
+        "fact_box_sidebar",
+        "process_steps",
+        "hex_cluster"
+      ],
+      "roles": [
+        "summary",
+        "process",
+        "other"
+      ],
+      "titles": [
+        "Zero Point Energy Claims vs Physics",
+        "Casimir Effect Energy Cycle",
+        "UFO Disclosure Narrative Logic"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a",
+      "title": "How UFO Disclosure Beliefs Inspired Hacking",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_genealogy",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Investigation Workflow",
+        "Interpretations of Network Intrusion",
+        "Components of UFO Disclosure Culture"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_ambiguous_files_conf_27bf05",
+      "title": "Why Strange Files Can Look Like UFO Proof",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "venn",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Cognitive Path of UFO Interpretation",
+        "Interpretation of Non Terrestrial Officers",
+        "Factors Creating Military Record Ambiguity"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_free_energy_moral_li_4529df",
+      "title": "When Free Energy Claims Became a Moral License",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Ethical Reasoning Path",
+        "Mc Kinnon's Alleged Technology Targets",
+        "Impacts of Suppressed Technology Claims"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_moral_crusade_vs_cyb_e46242",
+      "title": "Public Interest Mission or Unauthorized Intrusion?",
+      "infographic_count": 3,
+      "templates": [
+        "comparison_columns",
+        "process_pipeline",
+        "prism"
+      ],
+      "roles": [
+        "comparison",
+        "process",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Case Interpretations",
+        "US Prosecution of Mc Kinnon Conduct",
+        "Cybercrime Law Legal Elements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_secret_networks_as_a_c17a75",
+      "title": "Why Locked Networks Looked Like UFO Archives",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "structure_petal",
+        "process_steps"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "process"
+      ],
+      "titles": [
+        "Public Records vs. Secret Systems",
+        "Hypothetical Records in Disclosure Culture",
+        "Circular Logic of Cover Up Beliefs"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_weak_security_enable_8738aa",
+      "title": "When Weak Security Made UFO Hunting Possible",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Network Intrusion Path",
+        "Security Flaws vs. UFO Evidence",
+        "NASA Security Vulnerability Categories"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_witnesses_as_search_70e5e5",
+      "title": "How UFO Testimony Turned Into Search Instructions",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gary Mc Kinnon's Digital Search Logic",
+        "NASA Image Alteration Interpretations",
+        "Actionable Clues in Disclosure Testimony"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57",
+      "title": "How the Major UFO Hacker Cases Differed",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "orbital_rings"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "Legal Outcomes of British Hackers",
+        "UFO Claims vs Technical Records",
+        "Rome Laboratory Intrusion Scope"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_different_legal_outc_9b1ae8",
+      "title": "Why Their Hacking Cases Ended So Differently",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Extradition Time line",
+        "Legal Outcomes of UK Hackers",
+        "Factors Influencing Cybercrime Prosecution"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_not_one_hacker_team_c570be",
+      "title": "Were Britain's UFO Hackers Ever Connected?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "myth_facts",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Key Stages in British Hacking Cases",
+        "Bevan and Pryce vs Mc Kinnon",
+        "Debunking the UFO Hacker Conspiracy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_rome_breach_roles_6f67c0",
+      "title": "Who Did What in the Rome Laboratory Breach?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "taxonomy"
+      ],
+      "titles": [
+        "Rome Laboratory Breach Investigation Time line",
+        "Pryce vs. Bevan Intruder Profiles",
+        "Evidence of Collaborative Methods"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_ufo_motives_compared_b5e154",
+      "title": "Who Was Really Hacking for UFO Secrets?",
+      "infographic_count": 3,
+      "templates": [
+        "versus",
+        "umbrella",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon vs Mathew Bevan Motives",
+        "Mc Kinnon's Stated Search Objectives",
+        "Analysis of Richard Pryce's Motives"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.2,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_verified_access_unve_9c9e53",
+      "title": "What Was Proven and What Remains a Claim?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "cards_grid",
+        "prism"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Network Intrusion Key Stages",
+        "Technical Evidence vs. UFO Claims",
+        "Rome Laboratory Intrusion Findings"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.1,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_weak_security_shared_94047f",
+      "title": "How Ordinary Computers Reached Military Networks",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tree_roots",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "process",
+        "taxonomy",
+        "summary"
+      ],
+      "titles": [
+        "The Pivoting Mechanism of Network Intrusion",
+        "Institutional Security Failures at NASA and Air Force",
+        "Perceived vs. Actual Hacker Capability"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c",
+      "title": "How the Media Turned Mc Kinnon Into a Symbol",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "cards_grid",
+        "prism"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Extradition Legal Time line",
+        "Media Archetypes of Gary Mc Kinnon",
+        "Narrative Drivers of the UFO Legend"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c_biggest_hack_media_f_514ce8",
+      "title": "How One Phrase Made Mc Kinnon a Cyber Supervillain",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Legal Narrative Time line",
+        "Media Image vs. Technical Reality",
+        "Components of the Mc Kinnon Identity"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.222,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c_british_underdog_cam_f8a0cc",
+      "title": "How Mc Kinnon Became Britain's Extradition Underdog",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "tug_of_war",
+        "cards_grid"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Extradition Narrative Shift",
+        "Reframing the Gary Mc Kinnon Case",
+        "Campaign Pillars for Mc Kinnon's Defense"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.375,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c_diagnosis_extraditio_0f9567",
+      "title": "How Diagnosis Changed the Mc Kinnon Story",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "fact_box_sidebar",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Extradition Time line",
+        "Media Narrative Shift Post 2008",
+        "Factors Influencing Extradition Halt"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c_interviews_humanised_1b957e",
+      "title": "How Interviews Humanised the 'UFO Hacker'",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "quadrant"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Media Narrative Shift",
+        "Interpretations of Mc Kinnon's Motives",
+        "Elements of Mc Kinnon's Public Identity"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c_repetition_documenta_b3bcc5",
+      "title": "When Repetition Made Unverified Claims Feel Real",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "tug_of_war",
+        "list_vertical"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "The Lifecycle of the UFO Hacker Narrative",
+        "Documented Facts vs. Unverified Claims",
+        "Specific Claims from the NASA Hack"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c_terrorist_truth_seek_060d21",
+      "title": "Was Mc Kinnon a Threat or a Truth Seeker?",
+      "infographic_count": 3,
+      "templates": [
+        "venn",
+        "structure_taxonomy",
+        "tree_map"
+      ],
+      "roles": [
+        "comparison",
+        "taxonomy",
+        "taxonomy"
+      ],
+      "titles": [
+        "Gary Mc Kinnon Narrative Framing",
+        "Media Coverage Audience Segments",
+        "Omitted Context in Binary Framing"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}

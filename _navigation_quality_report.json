@@ -1,0 +1,2562 @@
+{
+  "generated_at_utc": "2026-08-03T16:05:43.038912Z",
+  "summary": {
+    "total_pages_with_permalink": 244,
+    "visible_pages": 213,
+    "hidden_pages": 31,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 930,
+    "inline_internal_target_page_count": 213,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 199,
+    "visible_pages_without_inline_outbound_links": 14,
+    "average_inline_inbound_links_per_visible_page": 4.37,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 213,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [
+      {
+        "basename": "ufo_hackers_such_as_e2dece_classified_programme_4e923d_u2_ufo_sightings_dd944c",
+        "title": "U 2 Sightings",
+        "permalink": "/u-2-sightings/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_government_network_b_48a43c",
+        "title": "Network Blind Spots",
+        "permalink": "/network-blind-spots/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_military_exercise_fi_8a240b",
+        "title": "Exercise Files",
+        "permalink": "/exercise-files/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_test_data_secret_mis_507fe2",
+        "title": "Test Data",
+        "permalink": "/test-data/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_earle_password_theft_b76aa8",
+        "title": "Password Theft",
+        "permalink": "/password-theft/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_later_mystery_ship_n_e85fcf",
+        "title": "Later Ship Names",
+        "permalink": "/later-ship-names/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_solar_warden_lore_dd0def",
+        "title": "Solar Warden",
+        "permalink": "/solar-warden/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_gofast_parallax_d88ec2",
+        "title": "Go Fast Explained",
+        "permalink": "/go-fast-explained/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_uap_standard_reporti_8455c9",
+        "title": "Better Reporting",
+        "permalink": "/better-reporting/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_ufo_sensor_calibrati_ed9655",
+        "title": "Sensor Calibration",
+        "permalink": "/sensor-calibration/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_unidentified_not_ali_becdd7",
+        "title": "Not Alien Yet",
+        "permalink": "/not-alien-yet/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_missing_officer_reco_eed22b",
+        "title": "Missing Officers",
+        "permalink": "/missing-officers/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_officers_not_aliens_40fe93",
+        "title": "Human Officers",
+        "permalink": "/human-officers/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_cosmic_rays_object_s_9766fd",
+        "title": "Cosmic Rays",
+        "permalink": "/cosmic-rays/"
+      }
+    ],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "ufo_hackers_such_as_e2dece",
+        "title": "What Did the UFO Hackers Actually Find?",
+        "permalink": "/ufo-hackers-such-as-gary-mackinnon/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "title": "AARO Findings",
+        "permalink": "/aaro-findings/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_aaro_review_scope_9e2942",
+        "title": "Review Scope",
+        "permalink": "/review-scope/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_alleged_ufo_metal_te_a437d0",
+        "title": "UFO Metal Test",
+        "permalink": "/ufo-metal-test/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_circular_reporting_c_7b801d",
+        "title": "Circular Claims",
+        "permalink": "/circular-claims-4b0015/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_classified_project_c_893c2a",
+        "title": "Misidentified Projects",
+        "permalink": "/misidentified-projects/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_contractor_alien_cla_470141",
+        "title": "Contractor Claims",
+        "permalink": "/contractor-claims/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_kona_blue_proposal_bfa16f",
+        "title": "Kona Blue",
+        "permalink": "/kona-blue/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "title": "Access vs Proof",
+        "permalink": "/access-vs-proof/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_authenticate_alleged_ba1f37",
+        "title": "File Authentication",
+        "permalink": "/file-authentication/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_charges_do_not_prove_fcd5ba",
+        "title": "Charges vs Claims",
+        "permalink": "/charges-vs-claims/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_classification_not_c_92d015",
+        "title": "Secrecy vs Cover Up",
+        "permalink": "/secrecy-vs-cover-up/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_computer_crime_proof_153ceb",
+        "title": "Legal Proof",
+        "permalink": "/legal-proof/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_mckinnon_extradition_d54fba",
+        "title": "Extradition Meaning",
+        "permalink": "/extradition-meaning/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_military_breach_resp_287589",
+        "title": "The Strong Official Response To Military Network...",
+        "permalink": "/the-strong-official-response-to/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f",
+        "title": "NASA Image",
+        "permalink": "/nasa-image/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_missing_scale_geomet_bb90e6",
+        "title": "Missing Scale",
+        "permalink": "/missing-scale/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_ordinary_space_objec_8ca963",
+        "title": "Known Objects",
+        "permalink": "/known-objects/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_original_file_forens_8a1e5f",
+        "title": "Original File Forens",
+        "permalink": "/original-file-forens/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_partial_image_render_95a28a",
+        "title": "Partial Render",
+        "permalink": "/partial-render/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_reflection_compressi_d8095d",
+        "title": "Image Artefacts",
+        "permalink": "/image-artefacts-93abbf/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_remote_display_disto_363be9",
+        "title": "Display Limits",
+        "permalink": "/display-limits/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c",
+        "title": "British Connection",
+        "permalink": "/british-connection/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_bevan_ufo_motive_482ad1",
+        "title": "Bevan s Motive",
+        "permalink": "/bevan-s-motive/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_distance_defence_sec_4bb89e",
+        "title": "Distance Collapses",
+        "permalink": "/distance-collapses/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_pryce_rome_intrusion_801931",
+        "title": "Pryce at Rome",
+        "permalink": "/pryce-at-rome/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_rome_espionage_alarm_1f2fea",
+        "title": "Espionage Alarm",
+        "permalink": "/espionage-alarm/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_rome_network_pivotin_6782aa",
+        "title": "Network Pivoting",
+        "permalink": "/network-pivoting/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_us_targets_british_h_c0f92c",
+        "title": "American Targets",
+        "permalink": "/american-targets/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1",
+        "title": "Circular Claims",
+        "permalink": "/circular-claims/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_hacking_credibility_bd556e",
+        "title": "Credibility Halo",
+        "permalink": "/credibility-halo/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_mckinnon_citation_la_13191c",
+        "title": "Citation Laundering",
+        "permalink": "/citation-laundering/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_mckinnon_lost_caveat_bcbee7",
+        "title": "Lost Caveats",
+        "permalink": "/lost-caveats/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_mckinnon_source_audi_c62e4e",
+        "title": "Source Audit",
+        "permalink": "/source-audit/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_media_variety_false_8e068a",
+        "title": "Media Variety",
+        "permalink": "/media-variety/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_wired_interview_sour_93b891",
+        "title": "Wired Source",
+        "permalink": "/wired-source/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_classified_programme_4e923d",
+        "title": "Secret Projects",
+        "permalink": "/secret-projects/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_classified_programme_4e923d_a12_oxcart_sightings_805428",
+        "title": "A 12 OXCART",
+        "permalink": "/a-12-oxcart/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_classified_programme_4e923d_avrocar_military_sau_1ff9e4",
+        "title": "Avrocar",
+        "permalink": "/avrocar/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_classified_programme_4e923d_f117_black_triangle_91e9e7",
+        "title": "F 117 Triangle",
+        "permalink": "/f-117-triangle/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_classified_programme_4e923d_roswell_project_mogu_55e357",
+        "title": "Roswell Mogul",
+        "permalink": "/roswell-mogul/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_classified_programme_4e923d_secret_aircraft_theo_43e136",
+        "title": "Theory Limits",
+        "permalink": "/theory-limits/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_classified_programme_4e923d_u2_ufo_sightings_dd944c",
+        "title": "U 2 Sightings",
+        "permalink": "/u-2-sightings/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9",
+        "title": "Motive and Law",
+        "permalink": "/motive-and-law/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curiosity_unauthoris_d9ad84",
+        "title": "Unauthorised Access",
+        "permalink": "/unauthorised-access/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curious_hacking_aggr_711c96",
+        "title": "Aggravating Factors",
+        "permalink": "/aggravating-factors/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_hacker_motive_chargi_612c30",
+        "title": "Charging and Sentence",
+        "permalink": "/charging-and-sentence/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_mckinnon_ufo_motive_5f57ae",
+        "title": "Motive Limits",
+        "permalink": "/motive-limits/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_public_interest_hack_dadc81",
+        "title": "Public Interest",
+        "permalink": "/public-interest/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_responsible_disclosu_5d58bc",
+        "title": "Responsible Disclosure",
+        "permalink": "/responsible-disclosure/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0",
+        "title": "Early Insecurity",
+        "permalink": "/early-insecurity/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_army_corps_credentia_0b9bf4",
+        "title": "Credential Risk",
+        "permalink": "/credential-risk/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_defense_attack_detec_7a754e",
+        "title": "Detection Gap",
+        "permalink": "/detection-gap-3b367e/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_government_network_b_48a43c",
+        "title": "Network Blind Spots",
+        "permalink": "/network-blind-spots/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_internal_trust_netwo_8abf00",
+        "title": "Internal Trust",
+        "permalink": "/internal-trust/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_rome_lab_trusted_hos_120e44",
+        "title": "Rome Lab",
+        "permalink": "/rome-lab/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_solar_sunrise_missin_8ea0c6",
+        "title": "Solar Sunrise",
+        "permalink": "/solar-sunrise/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d",
+        "title": "Claim Checklist",
+        "permalink": "/claim-checklist/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_agency_jargon_ufo_cl_039efd",
+        "title": "Agency Jargon",
+        "permalink": "/agency-jargon/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_link_file_to_breach_0a2310",
+        "title": "Breach Link",
+        "permalink": "/breach-link/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_memory_only_ufo_clai_586cb9",
+        "title": "Memory Claims",
+        "permalink": "/memory-claims/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_spacecraft_image_ori_5275c2",
+        "title": "Image Origin",
+        "permalink": "/image-origin/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_ufo_file_chain_of_cu_b6c207",
+        "title": "Chain of Custody",
+        "permalink": "/chain-of-custody/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_ufo_file_metadata_ch_a8c57b",
+        "title": "Metadata Checks",
+        "permalink": "/metadata-checks/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "title": "Mc Kinnon Case",
+        "permalink": "/mc-kinnon-case/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_damage_clai_fc4f9b",
+        "title": "Mckinnon Damage Clai",
+        "permalink": "/mckinnon-damage-clai/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_entry_metho_9c5295",
+        "title": "Mckinnon Entry Metho",
+        "permalink": "/mckinnon-entry-metho/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_extradition_0bc173",
+        "title": "Mckinnon Extradition",
+        "permalink": "/mckinnon-extradition/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_extradition_5824dd",
+        "title": "Extradition",
+        "permalink": "/extradition-71c0a2/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_nasa_image_cdb367",
+        "title": "Mckinnon NASA Image",
+        "permalink": "/mckinnon-nasa-image/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_ufo_verific_a800a1",
+        "title": "Mckinnon UFO Verific",
+        "permalink": "/mckinnon-ufo-verific/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_non_terrestrial_offi_05556c",
+        "title": "Officer Files",
+        "permalink": "/officer-files/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_non_terrestrial_offi_e211e8",
+        "title": "Non Terrestrial Offi",
+        "permalink": "/non-terrestrial-offi/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80",
+        "title": "File Context",
+        "permalink": "/file-context/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_draft_files_look_fin_4bb170",
+        "title": "Draft Files",
+        "permalink": "/draft-files/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_military_code_names_9a55aa",
+        "title": "Code Names",
+        "permalink": "/code-names/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_military_exercise_fi_8a240b",
+        "title": "Exercise Files",
+        "permalink": "/exercise-files/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_missing_metadata_fil_6d844c",
+        "title": "Missing Metadata",
+        "permalink": "/missing-metadata-56de88/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_server_location_not_7adb29",
+        "title": "Server Context",
+        "permalink": "/server-context/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_test_data_secret_mis_507fe2",
+        "title": "Test Data",
+        "permalink": "/test-data/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1",
+        "title": "Mathew Bevan",
+        "permalink": "/mathew-bevan/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_bevan_gravity_files_476695",
+        "title": "Gravity Files",
+        "permalink": "/gravity-files/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_bevan_prosecution_co_7ba91a",
+        "title": "Collapsed Case",
+        "permalink": "/collapsed-case/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_official_record_beva_5328a5",
+        "title": "Official Record",
+        "permalink": "/official-record/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_propulsion_not_roswe_e3e144",
+        "title": "Propulsion Claims",
+        "permalink": "/propulsion-claims/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_rome_lab_launch_poin_9398d6",
+        "title": "Rome Lab",
+        "permalink": "/rome-lab-5e9680/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_wright_patterson_ros_333148",
+        "title": "Wright Patterson",
+        "permalink": "/wright-patterson/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7",
+        "title": "Access Methods",
+        "permalink": "/access-methods/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_automated_network_sc_cc9451",
+        "title": "Network Scanning",
+        "permalink": "/network-scanning/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_blank_admin_password_724e01",
+        "title": "Blank Admin Password",
+        "permalink": "/blank-admin-password/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_cloned_windows_weakn_d5affb",
+        "title": "Cloned Setups",
+        "permalink": "/cloned-setups/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_detection_coordinati_2d8d61",
+        "title": "Detection Delays",
+        "permalink": "/detection-delays/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_lateral_movement_rou_5a8e24",
+        "title": "Lateral Movement Rou",
+        "permalink": "/lateral-movement-rou/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_remotelyanywhere_per_b8ae67",
+        "title": "Remotelyanywhere Per",
+        "permalink": "/remotelyanywhere-per/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4",
+        "title": "Case Timeline",
+        "permalink": "/case-timeline/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_earle_april_foothold_d445c5",
+        "title": "Earle Foothold",
+        "permalink": "/earle-foothold/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_earle_password_theft_b76aa8",
+        "title": "Password Theft",
+        "permalink": "/password-theft/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_earle_september_flas_8c54e4",
+        "title": "Earle Flashpoint",
+        "permalink": "/earle-flashpoint/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_mckinnon_intrusion_t_1f489e",
+        "title": "Intrusion Totals",
+        "permalink": "/intrusion-totals/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_mckinnon_march_2002_717823",
+        "title": "March 2002",
+        "permalink": "/march-2002/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_mckinnon_wider_campa_c74557",
+        "title": "Wider Campaign",
+        "permalink": "/wider-campaign/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872",
+        "title": "Damage Claims",
+        "permalink": "/damage-claims/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_army_deleted_account_6be86f",
+        "title": "Army Accounts",
+        "permalink": "/army-accounts/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_changing_damage_tota_664129",
+        "title": "Changing Totals",
+        "permalink": "/changing-totals/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_dialup_damage_plausi_3ad8ac",
+        "title": "Dial Up Damage",
+        "permalink": "/dial-up-damage/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_earle_damage_costs_1b7e7f",
+        "title": "Earle Costs",
+        "permalink": "/earle-costs/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_military_district_sh_37fbcf",
+        "title": "Network Shutdown",
+        "permalink": "/network-shutdown/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_untested_damage_clai_e9045c",
+        "title": "Untested Claims",
+        "permalink": "/untested-claims/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0",
+        "title": "Extradition",
+        "permalink": "/extradition/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_cross_borde_fce0e0",
+        "title": "Jurisdiction",
+        "permalink": "/jurisdiction/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_forum_bar_c7c616",
+        "title": "Forum Bar",
+        "permalink": "/forum-bar/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_human_right_b8b52c",
+        "title": "Human Rights",
+        "permalink": "/human-rights/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_plea_bargai_95b1b6",
+        "title": "Plea Pressure",
+        "permalink": "/plea-pressure/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_treaty_bala_6aa40c",
+        "title": "Treaty Balance",
+        "permalink": "/treaty-balance/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_uk_prosecut_0bee9e",
+        "title": "UK Trial",
+        "permalink": "/uk-trial/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013",
+        "title": "Mental Health",
+        "permalink": "/mental-health/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_autism_hacker_culpab_dbbcef",
+        "title": "Autism and Culpability",
+        "permalink": "/autism-and-culpability/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_cybercrime_mental_he_7ecb64",
+        "title": "Evidence Test",
+        "permalink": "/evidence-test/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_domestic_trial_vs_ex_e451ca",
+        "title": "Domestic Trial",
+        "permalink": "/domestic-trial/"
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_extradition_dispropo_2aa811",
+        "title": "Disproportionate Harm",
+        "permalink": "/disproportionate-harm/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curiosity_unauthoris_d9ad84",
+        "title": "Unauthorised Access",
+        "permalink": "/unauthorised-access/",
+        "inline_inbound_count": 101
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_government_network_b_48a43c",
+        "title": "Network Blind Spots",
+        "permalink": "/network-blind-spots/",
+        "inline_inbound_count": 50
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f",
+        "title": "NASA Image",
+        "permalink": "/nasa-image/",
+        "inline_inbound_count": 37
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_human_right_b8b52c",
+        "title": "Human Rights",
+        "permalink": "/human-rights/",
+        "inline_inbound_count": 37
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1",
+        "title": "Rome Laboratory",
+        "permalink": "/rome-laboratory/",
+        "inline_inbound_count": 37
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_classified_programme_4e923d",
+        "title": "Secret Projects",
+        "permalink": "/secret-projects/",
+        "inline_inbound_count": 29
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_public_interest_hack_dadc81",
+        "title": "Public Interest",
+        "permalink": "/public-interest/",
+        "inline_inbound_count": 29
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1",
+        "title": "Mathew Bevan",
+        "permalink": "/mathew-bevan/",
+        "inline_inbound_count": 27
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "title": "Richard Pryce",
+        "permalink": "/richard-pryce/",
+        "inline_inbound_count": 27
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "title": "Mc Kinnon Case",
+        "permalink": "/mc-kinnon-case/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_cross_borde_fce0e0",
+        "title": "Jurisdiction",
+        "permalink": "/jurisdiction/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013",
+        "title": "Mental Health",
+        "permalink": "/mental-health/",
+        "inline_inbound_count": 24
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_official_record_beva_5328a5",
+        "title": "Official Record",
+        "permalink": "/official-record/",
+        "inline_inbound_count": 21
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_ufo_file_chain_of_cu_b6c207",
+        "title": "Chain of Custody",
+        "permalink": "/chain-of-custody/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_mckinnon_march_2002_717823",
+        "title": "March 2002",
+        "permalink": "/march-2002/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_wright_patterson_ros_333148",
+        "title": "Wright Patterson",
+        "permalink": "/wright-patterson/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_disclosure_project_i_70341b",
+        "title": "Disclosure Influence",
+        "permalink": "/disclosure-influence/",
+        "inline_inbound_count": 13
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_circular_reporting_c_7b801d",
+        "title": "Circular Claims",
+        "permalink": "/circular-claims-4b0015/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_military_exercise_fi_8a240b",
+        "title": "Exercise Files",
+        "permalink": "/exercise-files/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_internal_reflections_de2f22",
+        "title": "Reflections",
+        "permalink": "/reflections/",
+        "inline_inbound_count": 12
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_classified_project_c_893c2a",
+        "title": "Misidentified Projects",
+        "permalink": "/misidentified-projects/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_mckinnon_suicide_ris_0a249d",
+        "title": "Suicide Risk",
+        "permalink": "/suicide-risk/",
+        "inline_inbound_count": 10
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_military_district_sh_37fbcf",
+        "title": "Network Shutdown",
+        "permalink": "/network-shutdown/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_official_records_off_f62d62",
+        "title": "Court Record",
+        "permalink": "/court-record/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_free_energy_moral_li_4529df",
+        "title": "Free Energy",
+        "permalink": "/free-energy/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_classified_aircraft_3574ec",
+        "title": "Secret Aircraft",
+        "permalink": "/secret-aircraft-7adffa/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a",
+        "title": "Disclosure Culture",
+        "permalink": "/disclosure-culture/",
+        "inline_inbound_count": 8
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece",
+        "title": "What Did the UFO Hackers Actually Find?",
+        "permalink": "/ufo-hackers-such-as-gary-mackinnon/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_classified_programme_4e923d_a12_oxcart_sightings_805428",
+        "title": "A 12 OXCART",
+        "permalink": "/a-12-oxcart/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_mckinnon_access_logs_e9dcc5",
+        "title": "Access Logs",
+        "permalink": "/access-logs/",
+        "inline_inbound_count": 6
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_military_code_names_9a55aa",
+        "title": "Code Names",
+        "permalink": "/code-names/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_earle_password_theft_b76aa8",
+        "title": "Password Theft",
+        "permalink": "/password-theft/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_domestic_trial_vs_ex_e451ca",
+        "title": "Domestic Trial",
+        "permalink": "/domestic-trial/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864",
+        "title": "Hidden Technology",
+        "permalink": "/hidden-technology/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_zero_point_energy_li_45eb33",
+        "title": "Zero Point Energy",
+        "permalink": "/zero-point-energy/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_ambiguous_files_conf_27bf05",
+        "title": "Confirmation Bias",
+        "permalink": "/confirmation-bias/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_different_legal_outc_9b1ae8",
+        "title": "Legal Outcomes",
+        "permalink": "/legal-outcomes/",
+        "inline_inbound_count": 5
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319",
+        "title": "Military Targets",
+        "permalink": "/military-targets/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_ufo_sensor_calibrati_ed9655",
+        "title": "Sensor Calibration",
+        "permalink": "/sensor-calibration/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c",
+        "title": "Media Narrative",
+        "permalink": "/media-narrative/",
+        "inline_inbound_count": 4
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_classified_programme_4e923d",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_space_image_artefact_05d565",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_classified_programme_4e923d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_space_image_artefact_05d565",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_gofast_parallax_d88ec2",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_uap_standard_reporti_8455c9",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_ufo_image_metadata_abdb7f",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_ufo_multi_sensor_ver_46b04a",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_ufo_sensor_calibrati_ed9655",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_unidentified_not_ali_becdd7",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_classified_programme_4e923d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_space_image_artefact_05d565",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_damage_clai_fc4f9b",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_entry_metho_9c5295",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_extradition_0bc173",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_extradition_5824dd",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_nasa_image_cdb367",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_ufo_verific_a800a1",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_non_terrestrial_offi_05556c",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_non_terrestrial_offi_e211e8",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_classified_programme_4e923d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_space_image_artefact_05d565",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_datastream_trace_lon_51a58c",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_foreign_spy_suspicio_02a14c",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_korean_atomic_intrus_4605b6",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_rome_data_damage_de9e07",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_rome_laboratory_gate_9037db",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_sniffers_password_ca_ab704a",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_classified_programme_4e923d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_space_image_artefact_05d565",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_aaro_review_scope_9e2942",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_alleged_ufo_metal_te_a437d0",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_circular_reporting_c_7b801d",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_classified_project_c_893c2a",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_contractor_alien_cla_470141",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_index",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_kona_blue_proposal_bfa16f",
+        "type": "child"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece",
+        "type": "ancestor"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece",
+        "type": "parent"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece_classified_programme_4e923d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4",
+        "type": "sibling"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872",
+        "type": "sibling"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_disclosure_project_i_70341b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_government_network_b_48a43c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece",
+        "to": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_ufo_sensor_calibrati_ed9655",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_uap_standard_reporti_8455c9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curiosity_unauthoris_d9ad84",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6",
+        "to": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_official_records_off_f62d62",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_government_network_b_48a43c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curiosity_unauthoris_d9ad84",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_military_district_sh_37fbcf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_disclosure_project_i_70341b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_military_exercise_fi_8a240b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_cross_borde_fce0e0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_official_record_beva_5328a5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_wright_patterson_ros_333148",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_different_legal_outc_9b1ae8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curiosity_unauthoris_d9ad84",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "to": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_government_network_b_48a43c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_ufo_file_chain_of_cu_b6c207",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_circular_reporting_c_7b801d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_kona_blue_proposal_bfa16f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+        "to": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_classified_project_c_893c2a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_mckinnon_access_logs_e9dcc5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_ufo_file_chain_of_cu_b6c207",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_human_right_b8b52c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_government_network_b_48a43c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_military_district_sh_37fbcf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece_classified_programme_4e923d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curiosity_unauthoris_d9ad84",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curiosity_unauthoris_d9ad84",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f",
+        "to": "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_internal_reflections_de2f22",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f",
+        "to": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_ordinary_space_objec_8ca963",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f",
+        "to": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_official_record_beva_5328a5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c",
+        "to": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c",
+        "to": "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c",
+        "to": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_mckinnon_march_2002_717823",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curiosity_unauthoris_d9ad84",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_public_interest_hack_dadc81",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c",
+        "to": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_government_network_b_48a43c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1",
+        "to": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_circular_reporting_c_7b801d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1",
+        "to": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_mckinnon_citation_la_13191c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_cross_borde_fce0e0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1",
+        "to": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_mckinnon_source_audi_c62e4e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_classified_programme_4e923d",
+        "to": "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_classified_aircraft_3574ec",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_classified_programme_4e923d",
+        "to": "ufo_hackers_such_as_e2dece_classified_programme_4e923d_a12_oxcart_sightings_805428",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_classified_programme_4e923d",
+        "to": "ufo_hackers_such_as_e2dece_classified_programme_4e923d_u2_ufo_sightings_dd944c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_classified_programme_4e923d",
+        "to": "ufo_hackers_such_as_e2dece_classified_programme_4e923d_avrocar_military_sau_1ff9e4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_classified_programme_4e923d",
+        "to": "ufo_hackers_such_as_e2dece",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_public_interest_hack_dadc81",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curiosity_unauthoris_d9ad84",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_mckinnon_march_2002_717823",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_human_right_b8b52c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9",
+        "to": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9",
+        "to": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_government_network_b_48a43c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9",
+        "to": "ufo_hackers_such_as_e2dece",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0",
+        "to": "ufo_hackers_such_as_e2dece",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0",
+        "to": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_government_network_b_48a43c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0",
+        "to": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_solar_sunrise_missin_8ea0c6",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0",
+        "to": "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0",
+        "to": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_classified_project_c_893c2a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0",
+        "to": "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_federal_security_gra_23d2d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0",
+        "to": "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_unclassified_militar_1767cb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0",
+        "to": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_official_records_off_f62d62",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d",
+        "to": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_ufo_file_chain_of_cu_b6c207",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_mckinnon_march_2002_717823",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d",
+        "to": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d",
+        "to": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_official_record_beva_5328a5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d",
+        "to": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_ufo_sensor_calibrati_ed9655",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curiosity_unauthoris_d9ad84",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curiosity_unauthoris_d9ad84",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80",
+        "to": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_military_exercise_fi_8a240b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_cross_borde_fce0e0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80",
+        "to": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_government_network_b_48a43c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curiosity_unauthoris_d9ad84",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1",
+        "to": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_wright_patterson_ros_333148",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1",
+        "to": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1",
+        "to": "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_public_interest_hack_dadc81",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_mckinnon_march_2002_717823",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1",
+        "to": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_human_right_b8b52c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7",
+        "to": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_government_network_b_48a43c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curiosity_unauthoris_d9ad84",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_mckinnon_march_2002_717823",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7",
+        "to": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_official_record_beva_5328a5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7",
+        "to": "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_unclassified_militar_1767cb",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_mckinnon_march_2002_717823",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curiosity_unauthoris_d9ad84",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4",
+        "to": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_cross_borde_fce0e0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_military_district_sh_37fbcf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_human_right_b8b52c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872",
+        "to": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curiosity_unauthoris_d9ad84",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_mckinnon_march_2002_717823",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_military_district_sh_37fbcf",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_cross_borde_fce0e0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_human_right_b8b52c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872",
+        "to": "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_government_network_b_48a43c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_human_right_b8b52c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_mckinnon_march_2002_717823",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curiosity_unauthoris_d9ad84",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0",
+        "to": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_mckinnon_suicide_ris_0a249d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0",
+        "to": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_domestic_trial_vs_ex_e451ca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013",
+        "to": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_domestic_trial_vs_ex_e451ca",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_human_right_b8b52c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_cross_borde_fce0e0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013",
+        "to": "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_mckinnon_march_2002_717823",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013",
+        "to": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_public_interest_hack_dadc81",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013",
+        "to": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_mckinnon_suicide_ris_0a249d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013",
+        "to": "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curiosity_unauthoris_d9ad84",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}

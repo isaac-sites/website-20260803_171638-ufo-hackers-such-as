@@ -1,0 +1,2952 @@
+{
+  "generated_at": "2026-08-03T17:05:47",
+  "passed": true,
+  "baseline": {
+    "article_pages": 244,
+    "amazon_specific_pages": 213,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "ufo_hackers_such_as_e2dece": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_aaro_review_scope_9e2942": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_alleged_ufo_metal_te_a437d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_circular_reporting_c_7b801d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_classified_project_c_893c2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_contractor_alien_cla_470141": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_kona_blue_proposal_bfa16f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_authenticate_alleged_ba1f37": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_charges_do_not_prove_fcd5ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_classification_not_c_92d015": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_computer_crime_proof_153ceb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_mckinnon_extradition_d54fba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_military_breach_resp_287589": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_missing_scale_geomet_bb90e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_ordinary_space_objec_8ca963": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_original_file_forens_8a1e5f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_partial_image_render_95a28a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_reflection_compressi_d8095d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_remote_display_disto_363be9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_bevan_ufo_motive_482ad1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_distance_defence_sec_4bb89e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_pryce_rome_intrusion_801931": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_rome_espionage_alarm_1f2fea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_rome_network_pivotin_6782aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_us_targets_british_h_c0f92c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_hacking_credibility_bd556e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_mckinnon_citation_la_13191c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_mckinnon_lost_caveat_bcbee7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_mckinnon_source_audi_c62e4e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_media_variety_false_8e068a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_wired_interview_sour_93b891": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_classified_programme_4e923d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_classified_programme_4e923d_a12_oxcart_sightings_805428": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_classified_programme_4e923d_avrocar_military_sau_1ff9e4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_classified_programme_4e923d_f117_black_triangle_91e9e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_classified_programme_4e923d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_classified_programme_4e923d_roswell_project_mogu_55e357": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_classified_programme_4e923d_secret_aircraft_theo_43e136": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_classified_programme_4e923d_u2_ufo_sightings_dd944c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curiosity_unauthoris_d9ad84": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curious_hacking_aggr_711c96": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_hacker_motive_chargi_612c30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_mckinnon_ufo_motive_5f57ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_public_interest_hack_dadc81": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_responsible_disclosu_5d58bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_army_corps_credentia_0b9bf4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_defense_attack_detec_7a754e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_government_network_b_48a43c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_internal_trust_netwo_8abf00": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_rome_lab_trusted_hos_120e44": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_solar_sunrise_missin_8ea0c6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_agency_jargon_ufo_cl_039efd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_link_file_to_breach_0a2310": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_memory_only_ufo_clai_586cb9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_spacecraft_image_ori_5275c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_ufo_file_chain_of_cu_b6c207": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_ufo_file_metadata_ch_a8c57b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_damage_clai_fc4f9b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_entry_metho_9c5295": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_extradition_0bc173": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_extradition_5824dd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_nasa_image_cdb367": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_ufo_verific_a800a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_non_terrestrial_offi_05556c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_non_terrestrial_offi_e211e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_government_file_misi_12aa80": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_draft_files_look_fin_4bb170": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_military_code_names_9a55aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_military_exercise_fi_8a240b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_missing_metadata_fil_6d844c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_server_location_not_7adb29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_test_data_secret_mis_507fe2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_bevan_gravity_files_476695": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_bevan_prosecution_co_7ba91a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_official_record_beva_5328a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_propulsion_not_roswe_e3e144": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_rome_lab_launch_poin_9398d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_wright_patterson_ros_333148": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_automated_network_sc_cc9451": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_blank_admin_password_724e01": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_cloned_windows_weakn_d5affb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_detection_coordinati_2d8d61": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_lateral_movement_rou_5a8e24": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_remotelyanywhere_per_b8ae67": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_earle_april_foothold_d445c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_earle_password_theft_b76aa8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_earle_september_flas_8c54e4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_mckinnon_intrusion_t_1f489e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_mckinnon_march_2002_717823": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_mckinnon_wider_campa_c74557": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_army_deleted_account_6be86f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_changing_damage_tota_664129": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_dialup_damage_plausi_3ad8ac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_earle_damage_costs_1b7e7f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_military_district_sh_37fbcf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_untested_damage_clai_e9045c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_cross_borde_fce0e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_forum_bar_c7c616": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_human_right_b8b52c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_plea_bargai_95b1b6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_treaty_bala_6aa40c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_uk_prosecut_0bee9e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_autism_hacker_culpab_dbbcef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_cybercrime_mental_he_7ecb64": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_domestic_trial_vs_ex_e451ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_extradition_dispropo_2aa811": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_forum_bar_hacker_ext_646198": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_mckinnon_suicide_ris_0a249d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_compartmentation_ufo_992cb0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_federal_security_gra_23d2d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_rome_lab_ufo_hacking_2747b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_secret_aircraft_ufo_3552bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_unclassified_militar_1767cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_unresolved_uap_image_a45a95": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_mckinnon_access_logs_e9dcc5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_mckinnon_file_metada_97e5bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_missing_folder_paths_cdaafd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_original_altered_ima_9a6622": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_remote_viewing_disto_82de2d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_technical_memory_ret_5cf76a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_fleet_transfer_exerc_74164d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_later_mystery_ship_n_e85fcf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_naval_naming_convent_28ee8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_solar_warden_lore_dd0def": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_transfer_spreadsheet_9bb5c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_unlisted_ship_names_e31121": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_gofast_parallax_d88ec2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_uap_standard_reporti_8455c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_ufo_image_metadata_abdb7f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_ufo_multi_sensor_ver_46b04a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_ufo_sensor_calibrati_ed9655": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_unidentified_not_ali_becdd7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8_building_8_ufo_claim_df2b75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8_five_nasa_centres_e256c6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8_nasa_image_processin_cb6cb2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8_nasa_open_networks_a98bdb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8_nasa_workstation_acc_c754c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8_nasa_workstation_fil_391e8b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_missing_officer_reco_eed22b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_officers_not_aliens_40fe93": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_official_records_off_f62d62": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_solar_warden_link_8b8ed4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_unknown_ship_names_553011": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_workbook_metadata_cl_58b6a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_datastream_trace_lon_51a58c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_foreign_spy_suspicio_02a14c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_korean_atomic_intrus_4605b6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_rome_data_damage_de9e07": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_rome_laboratory_gate_9037db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_sniffers_password_ca_ab704a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1_rome_contractor_pivo_13642b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1_rome_cost_and_exposu_891877": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1_rome_detection_gap_a088a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1_rome_electronic_fish_3e24ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1_rome_korean_institut_0f633b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1_rome_password_sniffe_77f3ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_space_image_artefact_05d565": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_cosmic_rays_object_s_9766fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_internal_reflections_de2f22": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_nearby_dust_false_sc_d5350d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_partial_download_fal_afb2f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_spacecraft_debris_al_0093bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_verify_strange_space_e7517b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_classified_aircraft_3574ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_disclosure_project_i_70341b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_hidden_antigravity_p_c40cbd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_mckinnon_missing_evi_c4183b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_public_vacuum_propul_d7b2f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_zero_point_energy_li_45eb33": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_ambiguous_files_conf_27bf05": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_free_energy_moral_li_4529df": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_moral_crusade_vs_cyb_e46242": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_secret_networks_as_a_c17a75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_weak_security_enable_8738aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_witnesses_as_search_70e5e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_different_legal_outc_9b1ae8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_not_one_hacker_team_c570be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_rome_breach_roles_6f67c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_ufo_motives_compared_b5e154": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_verified_access_unve_9c9e53": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_weak_security_shared_94047f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c_biggest_hack_media_f_514ce8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c_british_underdog_cam_f8a0cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c_diagnosis_extraditio_0f9567": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c_interviews_humanised_1b957e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c_repetition_documenta_b3bcc5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c_terrorist_truth_seek_060d21": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 244,
+    "amazon_specific_pages": 213,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 0,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "ufo_hackers_such_as_e2dece": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_aaro_review_scope_9e2942": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_alleged_ufo_metal_te_a437d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_circular_reporting_c_7b801d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_classified_project_c_893c2a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_contractor_alien_cla_470141": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_kona_blue_proposal_bfa16f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_authenticate_alleged_ba1f37": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_charges_do_not_prove_fcd5ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_classification_not_c_92d015": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_computer_crime_proof_153ceb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_mckinnon_extradition_d54fba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_military_breach_resp_287589": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_missing_scale_geomet_bb90e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_ordinary_space_objec_8ca963": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_original_file_forens_8a1e5f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_partial_image_render_95a28a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_reflection_compressi_d8095d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_remote_display_disto_363be9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_bevan_ufo_motive_482ad1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_distance_defence_sec_4bb89e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_pryce_rome_intrusion_801931": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_rome_espionage_alarm_1f2fea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_rome_network_pivotin_6782aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_us_targets_british_h_c0f92c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_hacking_credibility_bd556e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_mckinnon_citation_la_13191c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_mckinnon_lost_caveat_bcbee7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_mckinnon_source_audi_c62e4e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_media_variety_false_8e068a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_wired_interview_sour_93b891": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_classified_programme_4e923d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_classified_programme_4e923d_a12_oxcart_sightings_805428": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_classified_programme_4e923d_avrocar_military_sau_1ff9e4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_classified_programme_4e923d_f117_black_triangle_91e9e7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_classified_programme_4e923d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_classified_programme_4e923d_roswell_project_mogu_55e357": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_classified_programme_4e923d_secret_aircraft_theo_43e136": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_classified_programme_4e923d_u2_ufo_sightings_dd944c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curiosity_unauthoris_d9ad84": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_curious_hacking_aggr_711c96": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_hacker_motive_chargi_612c30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_mckinnon_ufo_motive_5f57ae": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_public_interest_hack_dadc81": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9_responsible_disclosu_5d58bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_army_corps_credentia_0b9bf4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_defense_attack_detec_7a754e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_government_network_b_48a43c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_internal_trust_netwo_8abf00": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_rome_lab_trusted_hos_120e44": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0_solar_sunrise_missin_8ea0c6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_agency_jargon_ufo_cl_039efd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_link_file_to_breach_0a2310": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_memory_only_ufo_clai_586cb9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_spacecraft_image_ori_5275c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_ufo_file_chain_of_cu_b6c207": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_ufo_file_metadata_ch_a8c57b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_damage_clai_fc4f9b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_entry_metho_9c5295": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_extradition_0bc173": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_extradition_5824dd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_nasa_image_cdb367": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_ufo_verific_a800a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_non_terrestrial_offi_05556c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_non_terrestrial_offi_e211e8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_government_file_misi_12aa80": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_draft_files_look_fin_4bb170": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_military_code_names_9a55aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_military_exercise_fi_8a240b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_missing_metadata_fil_6d844c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_server_location_not_7adb29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_test_data_secret_mis_507fe2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_bevan_gravity_files_476695": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_bevan_prosecution_co_7ba91a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_official_record_beva_5328a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_propulsion_not_roswe_e3e144": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_rome_lab_launch_poin_9398d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_wright_patterson_ros_333148": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_automated_network_sc_cc9451": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_blank_admin_password_724e01": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_cloned_windows_weakn_d5affb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_detection_coordinati_2d8d61": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_lateral_movement_rou_5a8e24": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_access_meth_8676a7_remotelyanywhere_per_b8ae67": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_earle_april_foothold_d445c5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_earle_password_theft_b76aa8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_earle_september_flas_8c54e4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_mckinnon_intrusion_t_1f489e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_mckinnon_march_2002_717823": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_mckinnon_wider_campa_c74557": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_army_deleted_account_6be86f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_changing_damage_tota_664129": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_dialup_damage_plausi_3ad8ac": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_earle_damage_costs_1b7e7f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_military_district_sh_37fbcf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_untested_damage_clai_e9045c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_cross_borde_fce0e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_forum_bar_c7c616": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_human_right_b8b52c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_plea_bargai_95b1b6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_treaty_bala_6aa40c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_uk_prosecut_0bee9e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_autism_hacker_culpab_dbbcef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_cybercrime_mental_he_7ecb64": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_domestic_trial_vs_ex_e451ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_extradition_dispropo_2aa811": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_forum_bar_hacker_ext_646198": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_mckinnon_suicide_ris_0a249d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_compartmentation_ufo_992cb0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_federal_security_gra_23d2d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_rome_lab_ufo_hacking_2747b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_secret_aircraft_ufo_3552bf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_unclassified_militar_1767cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_unresolved_uap_image_a45a95": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_mckinnon_access_logs_e9dcc5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_mckinnon_file_metada_97e5bd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_missing_folder_paths_cdaafd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_original_altered_ima_9a6622": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_remote_viewing_disto_82de2d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_technical_memory_ret_5cf76a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_fleet_transfer_exerc_74164d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_later_mystery_ship_n_e85fcf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_naval_naming_convent_28ee8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_solar_warden_lore_dd0def": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_transfer_spreadsheet_9bb5c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_unlisted_ship_names_e31121": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_gofast_parallax_d88ec2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_uap_standard_reporti_8455c9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_ufo_image_metadata_abdb7f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_ufo_multi_sensor_ver_46b04a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_ufo_sensor_calibrati_ed9655": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_unidentified_not_ali_becdd7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8_building_8_ufo_claim_df2b75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8_five_nasa_centres_e256c6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8_nasa_image_processin_cb6cb2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8_nasa_open_networks_a98bdb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8_nasa_workstation_acc_c754c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8_nasa_workstation_fil_391e8b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_missing_officer_reco_eed22b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_officers_not_aliens_40fe93": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_official_records_off_f62d62": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_solar_warden_link_8b8ed4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_unknown_ship_names_553011": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_workbook_metadata_cl_58b6a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_datastream_trace_lon_51a58c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_foreign_spy_suspicio_02a14c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_korean_atomic_intrus_4605b6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_rome_data_damage_de9e07": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_rome_laboratory_gate_9037db": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_sniffers_password_ca_ab704a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1_rome_contractor_pivo_13642b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1_rome_cost_and_exposu_891877": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1_rome_detection_gap_a088a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1_rome_electronic_fish_3e24ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1_rome_korean_institut_0f633b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_rome_laboratory_intr_7dd8c1_rome_password_sniffe_77f3ba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_space_image_artefact_05d565": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_cosmic_rays_object_s_9766fd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_internal_reflections_de2f22": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_nearby_dust_false_sc_d5350d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_partial_download_fal_afb2f6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_spacecraft_debris_al_0093bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_verify_strange_space_e7517b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_classified_aircraft_3574ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_disclosure_project_i_70341b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_hidden_antigravity_p_c40cbd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_mckinnon_missing_evi_c4183b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_public_vacuum_propul_d7b2f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_zero_point_energy_li_45eb33": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_ambiguous_files_conf_27bf05": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_free_energy_moral_li_4529df": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_moral_crusade_vs_cyb_e46242": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_secret_networks_as_a_c17a75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_weak_security_enable_8738aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_witnesses_as_search_70e5e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_different_legal_outc_9b1ae8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_not_one_hacker_team_c570be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_rome_breach_roles_6f67c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_ufo_motives_compared_b5e154": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_verified_access_unve_9c9e53": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_weak_security_shared_94047f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c_biggest_hack_media_f_514ce8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c_british_underdog_cam_f8a0cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c_diagnosis_extraditio_0f9567": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c_interviews_humanised_1b957e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c_repetition_documenta_b3bcc5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c_terrorist_truth_seek_060d21": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 244,
+  "regressions": []
+}

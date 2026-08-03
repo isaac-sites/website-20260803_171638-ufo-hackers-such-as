@@ -1,0 +1,1477 @@
+{
+  "version": 1,
+  "page_count": 56,
+  "total_page_seconds": 177.4342,
+  "average_page_seconds": 3.1685,
+  "phase_totals_seconds": {
+    "internal_links": 96.0004,
+    "content_assembly": 32.8586,
+    "monetization": 24.3902,
+    "media_svg": 14.2328,
+    "youtube": 4.9389,
+    "quality_write": 2.5093,
+    "preparation": 1.2471,
+    "content_cleanup_final": 1.2293,
+    "content_cleanup_initial": 0.027
+  },
+  "slowest_pages": [
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 7.1004,
+      "phases": {
+        "preparation": 0.0266,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.8192,
+        "content_cleanup_final": 0.041,
+        "media_svg": 0.1337,
+        "youtube": 1.4099,
+        "content_assembly": 0.7224,
+        "monetization": 2.8264,
+        "quality_write": 0.1203
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.0494,
+      "phases": {
+        "preparation": 0.0262,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.8109,
+        "content_cleanup_final": 0.0337,
+        "media_svg": 0.2379,
+        "youtube": 1.4267,
+        "content_assembly": 0.7129,
+        "monetization": 1.6964,
+        "quality_write": 0.1038
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.931,
+      "phases": {
+        "preparation": 0.026,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.8543,
+        "content_cleanup_final": 0.0459,
+        "media_svg": 0.1056,
+        "youtube": 1.3982,
+        "content_assembly": 0.7719,
+        "monetization": 1.6695,
+        "quality_write": 0.0586
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0747,
+      "phases": {
+        "preparation": 0.0269,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7915,
+        "content_cleanup_final": 0.0337,
+        "media_svg": 0.0614,
+        "youtube": 0.0293,
+        "content_assembly": 0.7401,
+        "monetization": 2.3365,
+        "quality_write": 0.0546
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_witnesses_as_search_70e5e5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0293,
+      "phases": {
+        "preparation": 0.0165,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6588,
+        "content_cleanup_final": 0.0191,
+        "media_svg": 0.2934,
+        "youtube": 0.014,
+        "content_assembly": 0.5562,
+        "monetization": 2.4325,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_remote_viewing_disto_82de2d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.8815,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7375,
+        "content_cleanup_final": 0.0249,
+        "media_svg": 0.2851,
+        "youtube": 0.0134,
+        "content_assembly": 0.5718,
+        "monetization": 2.19,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_draft_files_look_fin_4bb170",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8512,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7135,
+        "content_cleanup_final": 0.0159,
+        "media_svg": 0.2915,
+        "youtube": 0.0127,
+        "content_assembly": 0.5607,
+        "monetization": 1.199,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_mckinnon_access_logs_e9dcc5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7887,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6997,
+        "content_cleanup_final": 0.0164,
+        "media_svg": 0.2788,
+        "youtube": 0.0196,
+        "content_assembly": 0.5541,
+        "monetization": 1.1632,
+        "quality_write": 0.0399
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_ufo_verific_a800a1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7068,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.667,
+        "content_cleanup_final": 0.018,
+        "media_svg": 0.285,
+        "youtube": 0.0139,
+        "content_assembly": 0.5601,
+        "monetization": 1.1063,
+        "quality_write": 0.0393
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_mckinnon_file_metada_97e5bd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6823,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6903,
+        "content_cleanup_final": 0.0164,
+        "media_svg": 0.2877,
+        "youtube": 0.013,
+        "content_assembly": 0.559,
+        "monetization": 1.0592,
+        "quality_write": 0.039
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_missing_scale_geomet_bb90e6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6543,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6804,
+        "content_cleanup_final": 0.0241,
+        "media_svg": 0.2926,
+        "youtube": 0.0139,
+        "content_assembly": 0.5667,
+        "monetization": 1.0202,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_domestic_trial_vs_ex_e451ca",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6323,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7173,
+        "content_cleanup_final": 0.0173,
+        "media_svg": 0.2863,
+        "youtube": 0.0137,
+        "content_assembly": 0.5615,
+        "monetization": 0.9774,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9953,
+      "phases": {
+        "preparation": 0.0287,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.9083,
+        "content_cleanup_final": 0.0517,
+        "media_svg": 0.064,
+        "youtube": 0.0162,
+        "content_assembly": 0.7389,
+        "monetization": 0.127,
+        "quality_write": 0.0597
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_fleet_transfer_exerc_74164d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9392,
+      "phases": {
+        "preparation": 0.1079,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7579,
+        "content_cleanup_final": 0.027,
+        "media_svg": 0.2936,
+        "youtube": 0.0137,
+        "content_assembly": 0.5675,
+        "monetization": 0.1293,
+        "quality_write": 0.0416
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9331,
+      "phases": {
+        "preparation": 0.0278,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.8641,
+        "content_cleanup_final": 0.0424,
+        "media_svg": 0.0652,
+        "youtube": 0.0223,
+        "content_assembly": 0.7392,
+        "monetization": 0.1089,
+        "quality_write": 0.0623
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_partial_download_fal_afb2f6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8927,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8439,
+        "content_cleanup_final": 0.0212,
+        "media_svg": 0.2862,
+        "youtube": 0.013,
+        "content_assembly": 0.5595,
+        "monetization": 0.1108,
+        "quality_write": 0.0407
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8184,
+      "phases": {
+        "preparation": 0.0291,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.8133,
+        "content_cleanup_final": 0.0361,
+        "media_svg": 0.0686,
+        "youtube": 0.0103,
+        "content_assembly": 0.6964,
+        "monetization": 0.1061,
+        "quality_write": 0.0578
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_space_image_artefact_05d565",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8107,
+      "phases": {
+        "preparation": 0.0264,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.8007,
+        "content_cleanup_final": 0.0388,
+        "media_svg": 0.0671,
+        "youtube": 0.0213,
+        "content_assembly": 0.6957,
+        "monetization": 0.1045,
+        "quality_write": 0.0555
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_missing_officer_reco_eed22b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7998,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7268,
+        "content_cleanup_final": 0.0222,
+        "media_svg": 0.2894,
+        "youtube": 0.015,
+        "content_assembly": 0.5757,
+        "monetization": 0.1136,
+        "quality_write": 0.039
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_ambiguous_files_conf_27bf05",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7949,
+      "phases": {
+        "preparation": 0.1091,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.654,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.2957,
+        "youtube": 0.0136,
+        "content_assembly": 0.5528,
+        "monetization": 0.1146,
+        "quality_write": 0.0369
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 6.0494,
+      "phases": {
+        "preparation": 0.0262,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.8109,
+        "content_cleanup_final": 0.0337,
+        "media_svg": 0.2379,
+        "youtube": 1.4267,
+        "content_assembly": 0.7129,
+        "monetization": 1.6964,
+        "quality_write": 0.1038
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9953,
+      "phases": {
+        "preparation": 0.0287,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.9083,
+        "content_cleanup_final": 0.0517,
+        "media_svg": 0.064,
+        "youtube": 0.0162,
+        "content_assembly": 0.7389,
+        "monetization": 0.127,
+        "quality_write": 0.0597
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 7.1004,
+      "phases": {
+        "preparation": 0.0266,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.8192,
+        "content_cleanup_final": 0.041,
+        "media_svg": 0.1337,
+        "youtube": 1.4099,
+        "content_assembly": 0.7224,
+        "monetization": 2.8264,
+        "quality_write": 0.1203
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.931,
+      "phases": {
+        "preparation": 0.026,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 1.8543,
+        "content_cleanup_final": 0.0459,
+        "media_svg": 0.1056,
+        "youtube": 1.3982,
+        "content_assembly": 0.7719,
+        "monetization": 1.6695,
+        "quality_write": 0.0586
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8184,
+      "phases": {
+        "preparation": 0.0291,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 1.8133,
+        "content_cleanup_final": 0.0361,
+        "media_svg": 0.0686,
+        "youtube": 0.0103,
+        "content_assembly": 0.6964,
+        "monetization": 0.1061,
+        "quality_write": 0.0578
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7393,
+      "phases": {
+        "preparation": 0.0262,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7547,
+        "content_cleanup_final": 0.0302,
+        "media_svg": 0.0644,
+        "youtube": 0.0256,
+        "content_assembly": 0.6793,
+        "monetization": 0.1056,
+        "quality_write": 0.0528
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0747,
+      "phases": {
+        "preparation": 0.0269,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7915,
+        "content_cleanup_final": 0.0337,
+        "media_svg": 0.0614,
+        "youtube": 0.0293,
+        "content_assembly": 0.7401,
+        "monetization": 2.3365,
+        "quality_write": 0.0546
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9331,
+      "phases": {
+        "preparation": 0.0278,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 1.8641,
+        "content_cleanup_final": 0.0424,
+        "media_svg": 0.0652,
+        "youtube": 0.0223,
+        "content_assembly": 0.7392,
+        "monetization": 0.1089,
+        "quality_write": 0.0623
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_space_image_artefact_05d565",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8107,
+      "phases": {
+        "preparation": 0.0264,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.8007,
+        "content_cleanup_final": 0.0388,
+        "media_svg": 0.0671,
+        "youtube": 0.0213,
+        "content_assembly": 0.6957,
+        "monetization": 0.1045,
+        "quality_write": 0.0555
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7084,
+      "phases": {
+        "preparation": 0.0267,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6986,
+        "content_cleanup_final": 0.0254,
+        "media_svg": 0.1027,
+        "youtube": 0.0166,
+        "content_assembly": 0.6816,
+        "monetization": 0.1053,
+        "quality_write": 0.051
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_aaro_review_scope_9e2942",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7152,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6852,
+        "content_cleanup_final": 0.0153,
+        "media_svg": 0.2881,
+        "youtube": 0.0108,
+        "content_assembly": 0.552,
+        "monetization": 0.1052,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_nasa_image_cdb367",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7528,
+      "phases": {
+        "preparation": 0.0165,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6948,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.292,
+        "youtube": 0.0133,
+        "content_assembly": 0.5633,
+        "monetization": 0.1126,
+        "quality_write": 0.0393
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6_unidentified_not_ali_becdd7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7016,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6716,
+        "content_cleanup_final": 0.0151,
+        "media_svg": 0.2869,
+        "youtube": 0.0098,
+        "content_assembly": 0.5567,
+        "monetization": 0.1033,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_entry_metho_9c5295",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7129,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6747,
+        "content_cleanup_final": 0.014,
+        "media_svg": 0.2885,
+        "youtube": 0.0135,
+        "content_assembly": 0.553,
+        "monetization": 0.1135,
+        "quality_write": 0.038
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_ufo_verific_a800a1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7068,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.667,
+        "content_cleanup_final": 0.018,
+        "media_svg": 0.285,
+        "youtube": 0.0139,
+        "content_assembly": 0.5601,
+        "monetization": 1.1063,
+        "quality_write": 0.0393
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_non_terrestrial_offi_e211e8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7061,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6558,
+        "content_cleanup_final": 0.017,
+        "media_svg": 0.2954,
+        "youtube": 0.0103,
+        "content_assembly": 0.5653,
+        "monetization": 0.1035,
+        "quality_write": 0.0415
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_unknown_ship_names_553011",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7055,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.68,
+        "content_cleanup_final": 0.017,
+        "media_svg": 0.2829,
+        "youtube": 0.0142,
+        "content_assembly": 0.5484,
+        "monetization": 0.1049,
+        "quality_write": 0.0403
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_richard_pryce_case_952ec9_datastream_trace_lon_51a58c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7099,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6826,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.2843,
+        "youtube": 0.0136,
+        "content_assembly": 0.5523,
+        "monetization": 0.1008,
+        "quality_write": 0.0412
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_link_file_to_breach_0a2310",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7057,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6615,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.2853,
+        "youtube": 0.0137,
+        "content_assembly": 0.5515,
+        "monetization": 0.118,
+        "quality_write": 0.0407
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_bevan_gravity_files_476695",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.731,
+      "phases": {
+        "preparation": 0.0177,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6941,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.2917,
+        "youtube": 0.0102,
+        "content_assembly": 0.5545,
+        "monetization": 0.0999,
+        "quality_write": 0.0419
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_unlisted_ship_names_e31121",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.675,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6508,
+        "content_cleanup_final": 0.0155,
+        "media_svg": 0.2935,
+        "youtube": 0.0135,
+        "content_assembly": 0.5506,
+        "monetization": 0.0969,
+        "quality_write": 0.0368
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6_classified_project_c_893c2a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7469,
+      "phases": {
+        "preparation": 0.0178,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6957,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.2894,
+        "youtube": 0.0111,
+        "content_assembly": 0.5539,
+        "monetization": 0.1163,
+        "quality_write": 0.0417
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_witnesses_as_search_70e5e5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 5.0293,
+      "phases": {
+        "preparation": 0.0165,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6588,
+        "content_cleanup_final": 0.0191,
+        "media_svg": 0.2934,
+        "youtube": 0.014,
+        "content_assembly": 0.5562,
+        "monetization": 2.4325,
+        "quality_write": 0.0386
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_charges_do_not_prove_fcd5ba",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7247,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6861,
+        "content_cleanup_final": 0.0157,
+        "media_svg": 0.2891,
+        "youtube": 0.013,
+        "content_assembly": 0.5599,
+        "monetization": 0.1055,
+        "quality_write": 0.0381
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836_classification_not_c_92d015",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7551,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6951,
+        "content_cleanup_final": 0.0206,
+        "media_svg": 0.296,
+        "youtube": 0.0091,
+        "content_assembly": 0.5602,
+        "monetization": 0.1187,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_ordinary_space_objec_8ca963",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7742,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7066,
+        "content_cleanup_final": 0.0227,
+        "media_svg": 0.2933,
+        "youtube": 0.0093,
+        "content_assembly": 0.5568,
+        "monetization": 0.1287,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_missing_scale_geomet_bb90e6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6543,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6804,
+        "content_cleanup_final": 0.0241,
+        "media_svg": 0.2926,
+        "youtube": 0.0139,
+        "content_assembly": 0.5667,
+        "monetization": 1.0202,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f_partial_image_render_95a28a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7736,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6995,
+        "content_cleanup_final": 0.023,
+        "media_svg": 0.2896,
+        "youtube": 0.0138,
+        "content_assembly": 0.5564,
+        "monetization": 0.1334,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_british_hackers_us_s_5d424c_distance_defence_sec_4bb89e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7333,
+      "phases": {
+        "preparation": 0.0182,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7073,
+        "content_cleanup_final": 0.0147,
+        "media_svg": 0.2849,
+        "youtube": 0.0135,
+        "content_assembly": 0.5529,
+        "monetization": 0.1011,
+        "quality_write": 0.0401
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1_mckinnon_source_audi_c62e4e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7103,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6723,
+        "content_cleanup_final": 0.0178,
+        "media_svg": 0.284,
+        "youtube": 0.0134,
+        "content_assembly": 0.5576,
+        "monetization": 0.1053,
+        "quality_write": 0.0421
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_classified_programme_4e923d_a12_oxcart_sightings_805428",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7282,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6916,
+        "content_cleanup_final": 0.0157,
+        "media_svg": 0.2931,
+        "youtube": 0.008,
+        "content_assembly": 0.5574,
+        "monetization": 0.1082,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_classified_programme_4e923d_secret_aircraft_theo_43e136",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.734,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7014,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.2917,
+        "youtube": 0.0099,
+        "content_assembly": 0.5547,
+        "monetization": 0.1016,
+        "quality_write": 0.0395
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_memory_only_ufo_clai_586cb9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6905,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6617,
+        "content_cleanup_final": 0.0162,
+        "media_svg": 0.2888,
+        "youtube": 0.0113,
+        "content_assembly": 0.5516,
+        "monetization": 0.1027,
+        "quality_write": 0.0405
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d_ufo_file_chain_of_cu_b6c207",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7445,
+      "phases": {
+        "preparation": 0.0182,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7068,
+        "content_cleanup_final": 0.0166,
+        "media_svg": 0.2855,
+        "youtube": 0.0093,
+        "content_assembly": 0.5669,
+        "monetization": 0.1016,
+        "quality_write": 0.039
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_mathew_bevan_roswell_5625b1_propulsion_not_roswe_e3e144",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7476,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.6945,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.2912,
+        "youtube": 0.0091,
+        "content_assembly": 0.5733,
+        "monetization": 0.0992,
+        "quality_write": 0.0413
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_draft_files_look_fin_4bb170",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.8512,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7135,
+        "content_cleanup_final": 0.0159,
+        "media_svg": 0.2915,
+        "youtube": 0.0127,
+        "content_assembly": 0.5607,
+        "monetization": 1.199,
+        "quality_write": 0.0394
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_domestic_trial_vs_ex_e451ca",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6323,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7173,
+        "content_cleanup_final": 0.0173,
+        "media_svg": 0.2863,
+        "youtube": 0.0137,
+        "content_assembly": 0.5615,
+        "monetization": 0.9774,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_military_network_ufo_5fb319_compartmentation_ufo_992cb0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6777,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6572,
+        "content_cleanup_final": 0.0158,
+        "media_svg": 0.2841,
+        "youtube": 0.0102,
+        "content_assembly": 0.5521,
+        "monetization": 0.1015,
+        "quality_write": 0.0395
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_mckinnon_access_logs_e9dcc5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.7887,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6997,
+        "content_cleanup_final": 0.0164,
+        "media_svg": 0.2788,
+        "youtube": 0.0196,
+        "content_assembly": 0.5541,
+        "monetization": 1.1632,
+        "quality_write": 0.0399
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_mckinnon_file_metada_97e5bd",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 3.6823,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6903,
+        "content_cleanup_final": 0.0164,
+        "media_svg": 0.2877,
+        "youtube": 0.013,
+        "content_assembly": 0.559,
+        "monetization": 1.0592,
+        "quality_write": 0.039
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_original_altered_ima_9a6622",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7654,
+      "phases": {
+        "preparation": 0.0171,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7007,
+        "content_cleanup_final": 0.0243,
+        "media_svg": 0.2792,
+        "youtube": 0.0135,
+        "content_assembly": 0.5639,
+        "monetization": 0.1243,
+        "quality_write": 0.042
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_fleet_transfer_exerc_74164d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9392,
+      "phases": {
+        "preparation": 0.1079,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7579,
+        "content_cleanup_final": 0.027,
+        "media_svg": 0.2936,
+        "youtube": 0.0137,
+        "content_assembly": 0.5675,
+        "monetization": 0.1293,
+        "quality_write": 0.0416
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_naval_naming_convent_28ee8a",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7358,
+      "phases": {
+        "preparation": 0.0173,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.673,
+        "content_cleanup_final": 0.0172,
+        "media_svg": 0.2829,
+        "youtube": 0.0101,
+        "content_assembly": 0.5676,
+        "monetization": 0.1273,
+        "quality_write": 0.0398
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_remote_viewing_disto_82de2d",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 4.8815,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7375,
+        "content_cleanup_final": 0.0249,
+        "media_svg": 0.2851,
+        "youtube": 0.0134,
+        "content_assembly": 0.5718,
+        "monetization": 2.19,
+        "quality_write": 0.041
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_mystery_fleet_transf_df7541_transfer_spreadsheet_9bb5c9",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7234,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7016,
+        "content_cleanup_final": 0.0143,
+        "media_svg": 0.2912,
+        "youtube": 0.0133,
+        "content_assembly": 0.5469,
+        "monetization": 0.0995,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8_nasa_image_processin_cb6cb2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7145,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6741,
+        "content_cleanup_final": 0.018,
+        "media_svg": 0.2883,
+        "youtube": 0.0087,
+        "content_assembly": 0.5546,
+        "monetization": 0.1145,
+        "quality_write": 0.0391
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8_nasa_workstation_fil_391e8b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7665,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7288,
+        "content_cleanup_final": 0.0203,
+        "media_svg": 0.2895,
+        "youtube": 0.009,
+        "content_assembly": 0.5637,
+        "monetization": 0.0993,
+        "quality_write": 0.0385
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_missing_officer_reco_eed22b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7998,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.7268,
+        "content_cleanup_final": 0.0222,
+        "media_svg": 0.2894,
+        "youtube": 0.015,
+        "content_assembly": 0.5757,
+        "monetization": 0.1136,
+        "quality_write": 0.039
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_workbook_metadata_cl_58b6a1",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.688,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6601,
+        "content_cleanup_final": 0.0162,
+        "media_svg": 0.2809,
+        "youtube": 0.014,
+        "content_assembly": 0.5566,
+        "monetization": 0.1031,
+        "quality_write": 0.0392
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_space_image_artefact_05d565_partial_download_fal_afb2f6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8927,
+      "phases": {
+        "preparation": 0.0169,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 1.8439,
+        "content_cleanup_final": 0.0212,
+        "media_svg": 0.2862,
+        "youtube": 0.013,
+        "content_assembly": 0.5595,
+        "monetization": 0.1108,
+        "quality_write": 0.0407
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864_public_vacuum_propul_d7b2f2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7566,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 1.7051,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.2906,
+        "youtube": 0.0088,
+        "content_assembly": 0.5517,
+        "monetization": 0.1239,
+        "quality_write": 0.0402
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_ambiguous_files_conf_27bf05",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7949,
+      "phases": {
+        "preparation": 0.1091,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.654,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.2957,
+        "youtube": 0.0136,
+        "content_assembly": 0.5528,
+        "monetization": 0.1146,
+        "quality_write": 0.0369
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_different_legal_outc_9b1ae8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6815,
+      "phases": {
+        "preparation": 0.0168,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6792,
+        "content_cleanup_final": 0.0147,
+        "media_svg": 0.2866,
+        "youtube": 0.0136,
+        "content_assembly": 0.5539,
+        "monetization": 0.0763,
+        "quality_write": 0.04
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_ufo_motives_compared_b5e154",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.773,
+      "phases": {
+        "preparation": 0.018,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.7425,
+        "content_cleanup_final": 0.0234,
+        "media_svg": 0.285,
+        "youtube": 0.0139,
+        "content_assembly": 0.5704,
+        "monetization": 0.076,
+        "quality_write": 0.0434
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_verified_access_unve_9c9e53",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.659,
+      "phases": {
+        "preparation": 0.017,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6563,
+        "content_cleanup_final": 0.0155,
+        "media_svg": 0.292,
+        "youtube": 0.0134,
+        "content_assembly": 0.5476,
+        "monetization": 0.0764,
+        "quality_write": 0.0406
+      }
+    },
+    {
+      "base_name": "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_weak_security_shared_94047f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.7005,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 1.6894,
+        "content_cleanup_final": 0.0207,
+        "media_svg": 0.2814,
+        "youtube": 0.0108,
+        "content_assembly": 0.5564,
+        "monetization": 0.0849,
+        "quality_write": 0.0398
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 56,
+    "reused_pages": 157,
+    "rebuilt_pages": 56,
+    "error_pages": 0,
+    "page_work_wall_seconds": 84.8588,
+    "rebuilt_pages_per_minute": 39.5952,
+    "queued_rebuild_pages_per_minute": 39.5952,
+    "apparent_page_work_speedup": 2.0909,
+    "youtube_cache_prepare": {
+      "entries": 46787,
+      "updated": true,
+      "elapsed_seconds": 2.905
+    },
+    "process_worker_diagnostics": {
+      "completed_pages": 56,
+      "successful_pages": 56,
+      "failed_pages": 0,
+      "worker_summary": {
+        "22672": {
+          "pages": 20,
+          "successes": 20,
+          "failures": 0,
+          "total_worker_seconds": 61.5238,
+          "max_worker_seconds": 6.0924,
+          "last_base_name": "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_ufo_motives_compared_b5e154"
+        },
+        "12272": {
+          "pages": 18,
+          "successes": 18,
+          "failures": 0,
+          "total_worker_seconds": 59.5811,
+          "max_worker_seconds": 7.1448,
+          "last_base_name": "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_verified_access_unve_9c9e53"
+        },
+        "16800": {
+          "pages": 18,
+          "successes": 18,
+          "failures": 0,
+          "total_worker_seconds": 58.5774,
+          "max_worker_seconds": 5.9739,
+          "last_base_name": "ufo_hackers_such_as_e2dece_ufo_hacker_case_comp_e3eb57_weak_security_shared_94047f"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "ufo_hackers_such_as_e2dece_access_vs_concealmen_549836",
+          "level": 2,
+          "success": true,
+          "worker_pid": 12272,
+          "worker_duration_seconds": 7.1448,
+          "total_seconds": 7.1004,
+          "worker_started_at_utc": "2026-08-03T16:03:39.784861Z",
+          "worker_finished_at_utc": "2026-08-03T16:03:46.885310Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufo_hackers_such_as_e2dece_aaro_alien_program_f_3adeb6",
+          "level": 2,
+          "success": true,
+          "worker_pid": 22672,
+          "worker_duration_seconds": 6.0924,
+          "total_seconds": 6.0494,
+          "worker_started_at_utc": "2026-08-03T16:03:37.692277Z",
+          "worker_finished_at_utc": "2026-08-03T16:03:43.741761Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d",
+          "level": 2,
+          "success": true,
+          "worker_pid": 16800,
+          "worker_duration_seconds": 5.9739,
+          "total_seconds": 5.931,
+          "worker_started_at_utc": "2026-08-03T16:03:41.889504Z",
+          "worker_finished_at_utc": "2026-08-03T16:03:47.820538Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301",
+          "level": 2,
+          "success": true,
+          "worker_pid": 12272,
+          "worker_duration_seconds": 5.1158,
+          "total_seconds": 5.0747,
+          "worker_started_at_utc": "2026-08-03T16:03:46.931271Z",
+          "worker_finished_at_utc": "2026-08-03T16:03:52.006055Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufo_hackers_such_as_e2dece_ufo_disclosure_hacke_1d428a_witnesses_as_search_70e5e5",
+          "level": 3,
+          "success": true,
+          "worker_pid": 12272,
+          "worker_duration_seconds": 5.07,
+          "total_seconds": 5.0293,
+          "worker_started_at_utc": "2026-08-03T16:04:03.033156Z",
+          "worker_finished_at_utc": "2026-08-03T16:04:08.062544Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_remote_viewing_disto_82de2d",
+          "level": 3,
+          "success": true,
+          "worker_pid": 16800,
+          "worker_duration_seconds": 4.9212,
+          "total_seconds": 4.8815,
+          "worker_started_at_utc": "2026-08-03T16:04:24.368747Z",
+          "worker_finished_at_utc": "2026-08-03T16:04:29.250265Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufo_hackers_such_as_e2dece_government_file_misi_12aa80_draft_files_look_fin_4bb170",
+          "level": 3,
+          "success": true,
+          "worker_pid": 16800,
+          "worker_duration_seconds": 3.8896,
+          "total_seconds": 3.8512,
+          "worker_started_at_utc": "2026-08-03T16:04:16.649389Z",
+          "worker_finished_at_utc": "2026-08-03T16:04:20.500615Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_mckinnon_access_logs_e9dcc5",
+          "level": 3,
+          "success": true,
+          "worker_pid": 16800,
+          "worker_duration_seconds": 3.8265,
+          "total_seconds": 3.7887,
+          "worker_started_at_utc": "2026-08-03T16:04:20.540567Z",
+          "worker_finished_at_utc": "2026-08-03T16:04:24.329280Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufo_hackers_such_as_e2dece_gary_mckinnon_case_7813a5_mckinnon_ufo_verific_a800a1",
+          "level": 3,
+          "success": true,
+          "worker_pid": 16800,
+          "worker_duration_seconds": 3.7472,
+          "total_seconds": 3.7068,
+          "worker_started_at_utc": "2026-08-03T16:03:56.294479Z",
+          "worker_finished_at_utc": "2026-08-03T16:04:00.001275Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "ufo_hackers_such_as_e2dece_missing_primary_evid_ac0301_mckinnon_file_metada_97e5bd",
+          "level": 3,
+          "success": true,
+          "worker_pid": 22672,
+          "worker_duration_seconds": 3.7209,
+          "total_seconds": 3.6823,
+          "worker_started_at_utc": "2026-08-03T16:04:21.325186Z",
+          "worker_finished_at_utc": "2026-08-03T16:04:25.007549Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}
