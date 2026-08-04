@@ -2714,6 +2714,15 @@ body.page-article .article-hero-grid.has-visual {
   gap: 1rem 1.1rem;
 }
 
+body.page-article .article-hero-copy {
+  grid-template-columns: minmax(0, 1.34fr) minmax(15rem, 0.76fr);
+  align-items: start;
+}
+
+body.page-article .article-hero-copy > :not(.article-hero-media) {
+  grid-column: 1;
+}
+
 body.page-article .article-hero-summary {
   max-width: 58ch;
   font-size: 0.95rem;
@@ -2725,17 +2734,19 @@ body.page-article .article-hero-highlights {
 }
 
 body.page-article .article-hero-media {
+  grid-column: 2;
+  grid-row: 1 / span 8;
   width: 100%;
-  max-width: min(100%, 34rem);
+  max-width: min(100%, 24rem);
   min-height: 0;
-  aspect-ratio: auto;
-  justify-self: center;
+  aspect-ratio: 16 / 9;
+  align-self: start;
+  justify-self: end;
 }
 
 body.page-article .article-hero-media img {
-  height: auto;
-  max-height: clamp(14rem, 38vw, 24rem);
-  object-fit: contain;
+  height: 100%;
+  object-fit: cover;
 }
 
 body.page-article .article-hero-compact .article-hero-grid.has-visual {
@@ -14797,7 +14808,12 @@ a.fr-book-fit:focus-visible {
   }
 
   body.page-article .article-hero-copy {
+    grid-template-columns: minmax(0, 1fr);
     gap: 0.58rem;
+  }
+
+  body.page-article .article-hero-copy > :not(.article-hero-media) {
+    grid-column: 1;
   }
 
   body.page-article .article-hero-highlights {
@@ -14809,10 +14825,12 @@ a.fr-book-fit:focus-visible {
   }
 
   body.page-article .article-hero-media {
+    grid-column: 1;
+    grid-row: auto;
     width: 100%;
     max-width: none;
     justify-self: stretch;
-    aspect-ratio: auto;
+    aspect-ratio: 16 / 9;
     min-height: 0;
   }
 
