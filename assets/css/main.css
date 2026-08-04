@@ -270,10 +270,6 @@ body {
   display: none;
 }
 
-.article-hero-media-mobile {
-  display: none;
-}
-
 @media (min-width: 981px) {
   body.page-article .site-nav .article-header-parent {
     display: inline-flex;
@@ -14791,16 +14787,6 @@ a.fr-book-fit:focus-visible {
   body.page-article .article-hero-grid.has-visual {
     grid-template-columns: minmax(0, 1fr);
     gap: 0.72rem;
-  }
-
-  body.page-article .article-hero-media-desktop {
-    display: none;
-  }
-
-  body.page-article .article-hero-media-mobile {
-    display: flex;
-    order: initial;
-    margin-top: 0.08rem;
   }
 
   body.page-article .article-hero-copy {

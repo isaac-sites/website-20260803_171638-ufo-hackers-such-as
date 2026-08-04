@@ -1,5 +1,5 @@
 {
-  "selection_strategy": "legacy-resolvers",
+  "selection_strategy": "shared-scorer",
   "ui_priority": "home-first",
   "site_shape": {
     "report_count": 213,
@@ -43,13 +43,84 @@
     "site_visual_identity": "signal-cobalt",
     "site_visual_identity_source": "remote_model",
     "site_visual_identity_confidence": "high",
-    "visual_profile": "atlas",
-    "layout_archetype": "atlas",
+    "visual_profile": "compact",
+    "layout_archetype": "compact-grid",
     "home_layout_mode": "vertical",
     "auto_home_layout_mode": "catalog",
     "hierarchy_viz_mode": "hybrid",
     "palette": "signal-cobalt",
     "motif": "constellation"
   },
-  "candidates": []
+  "candidates": [
+    {
+      "profile": "compact",
+      "layout": "compact-grid",
+      "home_score": 64,
+      "article_score": 18,
+      "interaction_score": 13,
+      "score": 4000,
+      "reasons": [
+        "compact profile suits large hierarchies",
+        "compact-grid handles dense trees",
+        "compact-grid suits hybrid graph/list layout"
+      ]
+    },
+    {
+      "profile": "atlas",
+      "layout": "dossier",
+      "home_score": 40,
+      "article_score": 36,
+      "interaction_score": 16,
+      "score": 3400,
+      "reasons": [
+        "dossier improves dense article branches",
+        "single-root hierarchy benefits from clearer branch staging",
+        "atlas+dossier suits hybrid hierarchy"
+      ]
+    },
+    {
+      "profile": "compact",
+      "layout": "atlas",
+      "home_score": 52,
+      "article_score": 12,
+      "interaction_score": 13,
+      "score": 3220,
+      "reasons": [
+        "compact profile suits large hierarchies",
+        "single-root hierarchy benefits from clearer branch staging"
+      ]
+    },
+    {
+      "profile": "editorial",
+      "layout": "dossier",
+      "home_score": 24,
+      "article_score": 34,
+      "interaction_score": 14,
+      "score": 2500,
+      "reasons": [
+        "dossier improves dense article branches",
+        "single-root hierarchy benefits from clearer branch staging"
+      ]
+    },
+    {
+      "profile": "atlas",
+      "layout": "atlas",
+      "home_score": 24,
+      "article_score": 18,
+      "interaction_score": 16,
+      "score": 2060,
+      "reasons": [
+        "single-root hierarchy benefits from clearer branch staging"
+      ]
+    },
+    {
+      "profile": "editorial",
+      "layout": "magazine",
+      "home_score": 12,
+      "article_score": 16,
+      "interaction_score": 14,
+      "score": 1360,
+      "reasons": []
+    }
+  ]
 }
