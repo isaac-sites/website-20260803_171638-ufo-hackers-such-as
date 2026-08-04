@@ -216,6 +216,11 @@
                     {% endif %}
                   </div>
                   {% endif %}
+                  {% if page_preview_image %}
+                  <a class="article-hero-media" href="{{ page_preview_image | relative_url }}" aria-label="{{ ui.open_report_preview_image | default: 'Open report preview image' | escape }}">
+                    <img src="{{ page_preview_image | relative_url }}" alt="Preview for {{ page_heading_title | escape }}" loading="eager" decoding="async" fetchpriority="high">
+                  </a>
+                  {% endif %}
                   {% if hero_has_highlights %}
                   <section class="article-hero-highlights" aria-label="{{ ui.key_sections | default: 'Key sections' | escape }}">
                     <p class="article-hero-highlights-title">{{ ui.inside_this_report | default: 'Inside this report' }}</p>
@@ -227,11 +232,6 @@
                   </section>
                   {% endif %}
                 </div>
-                {% if page_preview_image %}
-                <a class="article-hero-media" href="{{ page_preview_image | relative_url }}" aria-label="{{ ui.open_report_preview_image | default: 'Open report preview image' | escape }}">
-                  <img src="{{ page_preview_image | relative_url }}" alt="Preview for {{ page_heading_title | escape }}" loading="eager">
-                </a>
-                {% endif %}
               </div>
             </header>
             <details class="mobile-page-tools" id="mobile-page-tools" data-mobile-page-tools hidden>

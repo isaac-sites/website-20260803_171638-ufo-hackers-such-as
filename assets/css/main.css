@@ -2709,7 +2709,7 @@ body.page-article .article-hero {
 }
 
 body.page-article .article-hero-grid.has-visual {
-  grid-template-columns: minmax(0, 1.34fr) minmax(15rem, 0.76fr);
+  grid-template-columns: minmax(0, 1fr);
   align-items: stretch;
   gap: 1rem 1.1rem;
 }
@@ -2726,17 +2726,24 @@ body.page-article .article-hero-highlights {
 
 body.page-article .article-hero-media {
   width: 100%;
-  max-width: min(100%, 24rem);
-  min-height: clamp(12rem, 27vw, 15rem);
-  justify-self: end;
+  max-width: min(100%, 34rem);
+  min-height: 0;
+  aspect-ratio: auto;
+  justify-self: center;
+}
+
+body.page-article .article-hero-media img {
+  height: auto;
+  max-height: clamp(14rem, 38vw, 24rem);
+  object-fit: contain;
 }
 
 body.page-article .article-hero-compact .article-hero-grid.has-visual {
-  grid-template-columns: minmax(0, 1.28fr) minmax(14rem, 0.72fr);
+  grid-template-columns: minmax(0, 1fr);
 }
 
 body.page-article .article-hero-compact .article-hero-media {
-  min-height: clamp(10.5rem, 22vw, 12.5rem);
+  min-height: 0;
 }
 
 body.page-article .article-branch-nav,
@@ -14805,7 +14812,7 @@ a.fr-book-fit:focus-visible {
     width: 100%;
     max-width: none;
     justify-self: stretch;
-    aspect-ratio: 16 / 9;
+    aspect-ratio: auto;
     min-height: 0;
   }
 
