@@ -32,7 +32,11 @@ endnotes_collapse_threshold: 4
 endnotes_initial_visible: 3
 endnotes_show_accessed: false
 social_cards_enabled: true
-social_card_max_level: 1
+social_infographic_candidates_enabled: true
+social_card_max_level: 0
+social_card_template_version: '2'
+social_preview_audit_enabled: true
+social_preview_contact_sheet_enabled: true
 native_share_enabled: true
 article_schema_enabled: true
 baseurl: ""
@@ -43,7 +47,7 @@ homepage_copy_policy: 'polished'
 home_layout_mode: 'vertical'
 auto_home_layout_mode: 'catalog'
 hierarchy_viz_mode: 'hybrid'
-ui_bundle_version: 'build-1785845926'
+ui_bundle_version: 'build-1786639970'
 google_site_verification: ''
 draft_noindex: false
 theme: minima

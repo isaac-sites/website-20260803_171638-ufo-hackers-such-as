@@ -182,12 +182,25 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+interactive_map: false
 header:
   og_image: /assets/images/ufo_hackers_such_as_e2dece-overview-social-card.jpg
   preview_image: /assets/images/ufo_hackers_such_as_e2dece-overview-social-card.jpg
 image: /assets/images/ufo_hackers_such_as_e2dece-overview-social-card.jpg
 site_image_description: A lone computer terminal displays military network directories beside a desk covered with satellite photographs, handwritten ship...
 ---
+
+<section class="home-structure-intro home-structure-intro--public-compact home-structure-intro--indexed-hierarchy" data-home-public-intro>
+<div class="home-structure-intro-copy">
+<p class="home-structure-intro-kicker">Topic guide</p>
+<h1 class="home-structure-intro-title">UFO Hackers Such As Gary Mackinnon</h1>
+<p class="home-structure-intro-summary">A practical guide to UFO Hackers Such As Gary Mackinnon, from the main overview to focused routes through the topic.</p>
+<div class="home-structure-actions" aria-label="Homepage starting points">
+<a class="home-structure-action home-structure-action-primary" href="/ufo-hackers-such-as-gary-mackinnon/">Start here</a>
+<a class="home-structure-action home-structure-action-secondary" href="#browse-reports">Browse or search</a>
+</div>
+</div>
+</section>
 
 <section class="home-adaptive-home home-adaptive-home--indexed-hierarchy" data-home-archetype="indexed-hierarchy" data-home-level-1-count="1" data-home-level-1-tier="solo" data-home-top-child-tier="overflow" data-home-max-breadth="182" data-home-max-depth="2">
 <section id="home-full-index" class="home-mode-panel is-active home-adaptive-secondary" data-home-mode-panel="vertical" data-home-mode-label="Topic view">

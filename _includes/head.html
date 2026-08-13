@@ -10,8 +10,8 @@
   {% if social_image %}
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="{{ page.share_hook | default: page.description | default: page.title | escape }}">
-  <meta name="twitter:image:alt" content="{{ page.share_hook | default: page.description | default: page.title | escape }}">
+  <meta property="og:image:alt" content="{{ page.social_image_alt | default: page.title | escape }}">
+  <meta name="twitter:image:alt" content="{{ page.social_image_alt | default: page.title | escape }}">
   {% endif %}
   <script>
     (function () {
@@ -63,6 +63,18 @@
   <link href="https://fonts.googleapis.com/css2?family=Sora:wght@500;700&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
   <script src="{{ '/assets/js/theme-toggle.js' | relative_url }}?v={{ site.ui_bundle_version | default: '1' | uri_escape }}"></script>
   <script src="{{ '/assets/js/page-enhancements.js' | relative_url }}?v={{ site.ui_bundle_version | default: '1' | uri_escape }}" defer></script>
+  {% if page.home %}
+  <script src="{{ '/assets/js/page-home.js' | relative_url }}?v={{ site.ui_bundle_version | default: '1' | uri_escape }}" defer></script>
+  {% endif %}
+  {% if page.home or page.hierarchy_graph %}
+  <script src="{{ '/assets/js/page-hierarchy.js' | relative_url }}?v={{ site.ui_bundle_version | default: '1' | uri_escape }}" defer></script>
+  {% endif %}
+  {% unless page.home or page.search_page or page.tool_page %}
+  <script src="{{ '/assets/js/page-article.js' | relative_url }}?v={{ site.ui_bundle_version | default: '1' | uri_escape }}" defer></script>
+  {% endunless %}
+  {% if page.interactive_map %}
+  <script src="{{ '/assets/js/page-map.js' | relative_url }}?v={{ site.ui_bundle_version | default: '1' | uri_escape }}" defer></script>
+  {% endif %}
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ site.ui_bundle_version | default: '1' | uri_escape }}">
   {% if site.data.site_integrations %}
   <link rel="stylesheet" href="{{ '/assets/css/site-integrations.css' | relative_url }}?v={{ site.ui_bundle_version | default: '1' | uri_escape }}">

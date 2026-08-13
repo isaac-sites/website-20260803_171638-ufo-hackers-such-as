@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "groups": [],
+  "site_links": [
+    {
+      "label": "Explore UFO Identifications",
+      "url": "https://ifos.isaackoi.com/",
+      "target_site_id": "ifos",
+      "target_title": "UFO Identifications",
+      "shared_focus_ids": [
+        "ufo"
+      ]
+    },
+    {
+      "label": "Explore Kecksburg",
+      "url": "https://kecksburg.isaackoi.com/",
+      "target_site_id": "kecksburg",
+      "target_title": "Kecksburg",
+      "shared_focus_ids": [
+        "ufo"
+      ]
+    },
+    {
+      "label": "Explore Rendlesham Forest",
+      "url": "https://rendlesham.isaackoi.com/",
+      "target_site_id": "rendlesham",
+      "target_title": "Rendlesham Forest",
+      "shared_focus_ids": [
+        "ufo"
+      ]
+    },
+    {
+      "label": "Explore Instrumented Sky",
+      "url": "https://sky-detectors.isaackoi.com/",
+      "target_site_id": "sky-detectors",
+      "target_title": "Instrumented Sky",
+      "shared_focus_ids": [
+        "ufo"
+      ]
+    },
+    {
+      "label": "Explore Spielberg",
+      "url": "https://spielberg.isaackoi.com/",
+      "target_site_id": "spielberg",
+      "target_title": "Spielberg",
+      "shared_focus_ids": [
+        "ufo"
+      ]
+    },
+    {
+      "label": "Explore UFO Disclosure",
+      "url": "https://uap-disclosure.isaackoi.com/",
+      "target_site_id": "uap-disclosure",
+      "target_title": "UFO Disclosure",
+      "shared_focus_ids": [
+        "ufo"
+      ]
+    },
+    {
+      "label": "Explore UFO Archives",
+      "url": "https://ufo-archives.isaackoi.com/",
+      "target_site_id": "ufo-archives",
+      "target_title": "UFO Archives",
+      "shared_focus_ids": [
+        "ufo"
+      ]
+    },
+    {
+      "label": "Explore UFOs and UAP by Australian State",
+      "url": "https://ufo-australia.isaackoi.com/",
+      "target_site_id": "ufo-australia",
+      "target_title": "UFOs and UAP by Australian State",
+      "shared_focus_ids": [
+        "ufo"
+      ]
+    }
+  ]
+}

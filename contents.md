@@ -7,6 +7,18 @@ contents_page: true
 description: Browse the full structured site index.
 ---
 
+<section class="home-structure-intro home-structure-intro--public-compact home-structure-intro--indexed-hierarchy" data-home-public-intro>
+<div class="home-structure-intro-copy">
+<p class="home-structure-intro-kicker">Topic guide</p>
+<h1 class="home-structure-intro-title">UFO Hackers Such As Gary Mackinnon</h1>
+<p class="home-structure-intro-summary">A practical guide to UFO Hackers Such As Gary Mackinnon, from the main overview to focused routes through the topic.</p>
+<div class="home-structure-actions" aria-label="Homepage starting points">
+<a class="home-structure-action home-structure-action-primary" href="/ufo-hackers-such-as-gary-mackinnon/">Start here</a>
+<a class="home-structure-action home-structure-action-secondary" href="#browse-reports">Browse or search</a>
+</div>
+</div>
+</section>
+
 <section class="home-adaptive-home home-adaptive-home--indexed-hierarchy" data-home-archetype="indexed-hierarchy" data-home-level-1-count="1" data-home-level-1-tier="solo" data-home-top-child-tier="overflow" data-home-max-breadth="182" data-home-max-depth="2">
 <section id="home-full-index" class="home-mode-panel is-active home-adaptive-secondary" data-home-mode-panel="vertical" data-home-mode-label="Topic view">
 <section id="home-vertical-view" class="home-hierarchy-band home-vertical-shell" data-home-vertical-map data-home-vertical-l1-count="30" data-home-vertical-top-count="1">

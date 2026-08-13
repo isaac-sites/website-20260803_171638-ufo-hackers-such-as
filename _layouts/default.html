@@ -218,7 +218,7 @@
                   {% endif %}
                   {% if page_preview_image %}
                   <a class="article-hero-media" href="{{ page_preview_image | relative_url }}" aria-label="{{ ui.open_report_preview_image | default: 'Open report preview image' | escape }}">
-                    <img src="{{ page_preview_image | relative_url }}" alt="Preview for {{ page_heading_title | escape }}" loading="eager" decoding="async" fetchpriority="high">
+                    <img src="{{ page_preview_image | relative_url }}" alt="Preview for {{ page_heading_title | escape }}"{% if page.header.preview_image_width and page.header.preview_image_height %} width="{{ page.header.preview_image_width }}" height="{{ page.header.preview_image_height }}"{% endif %} loading="eager" decoding="async" fetchpriority="high">
                   </a>
                   {% endif %}
                   {% if hero_has_highlights %}
@@ -279,6 +279,8 @@
               {% include site-integration-promotion.html %}
               {% endif %}
             </article>
+            {% include across-network.html %}
+            {% include related-sites.html %}
             {% assign has_sibling_links = false %}
             {% if page.sibling_links %}
             {% if page.sibling_links.size > 0 %}
