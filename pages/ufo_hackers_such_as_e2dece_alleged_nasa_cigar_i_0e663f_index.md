@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-alleged/
 description: Focused pages that expand on NASA Image.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece_alleged_nasa_cigar_i_0e663f
 parent_title: NASA Image | UFO Hackers Such As Gary Mackinnon

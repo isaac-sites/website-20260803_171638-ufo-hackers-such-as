@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-02 13:02:08'
+last_modified_at: '2026-08-02 13:02:08'
 parent_title: How the Major UFO Hacker Cases Differed | UFO Hackers Such As Gary Mackinnon
 parent_permalink: /case-comparison/
 parent_nav_short_title: Case Comparison

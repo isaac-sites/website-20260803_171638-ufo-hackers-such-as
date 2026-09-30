@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-02 17:23:41'
+last_modified_at: '2026-08-02 17:23:41'
 parent_title: How One UFO Claim Becomes Many Sources | UFO Hackers Such As Gary Mackinnon
 parent_permalink: /circular-claims/
 parent_nav_short_title: Circular Claims

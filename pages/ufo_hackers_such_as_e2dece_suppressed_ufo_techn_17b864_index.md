@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-suppressed/
 description: Focused pages that expand on Hidden Technology.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece_suppressed_ufo_techn_17b864
 parent_title: Hidden Technology

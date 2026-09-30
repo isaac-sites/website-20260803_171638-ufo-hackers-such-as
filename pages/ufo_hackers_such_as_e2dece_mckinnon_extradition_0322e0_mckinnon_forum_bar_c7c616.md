@@ -289,6 +289,7 @@ next_link:
   short_title: Human Rights
   heading_title: Why Human Rights Finally Halted the Extradition
 date: '2026-08-03 16:27:42 '
+last_modified_at: '2026-08-03 16:27:42 '
 header:
   og_image: /assets/images/ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_forum_bar_c7c616-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_forum_bar_c7c616-Illustration-1.webp
