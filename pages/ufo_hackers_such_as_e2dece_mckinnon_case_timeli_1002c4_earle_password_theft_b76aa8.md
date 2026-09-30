@@ -295,6 +295,7 @@ next_link:
   short_title: Wider Campaign
   heading_title: How Far Did Mc Kinnon's US Intrusions Spread?
 date: '2026-08-03 16:29:52 '
+last_modified_at: '2026-08-03 16:29:52 '
 header:
   og_image: /assets/images/ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_earle_password_theft_b76aa8-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4_earle_password_theft_b76aa8-Illustration-1.webp

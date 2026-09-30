@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-nasa-ufo/
 description: Focused pages that expand on NASA Targets.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece_nasa_ufo_hacker_targ_8b7fc8
 parent_title: NASA Targets
