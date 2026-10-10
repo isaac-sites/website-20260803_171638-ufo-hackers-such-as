@@ -4,7 +4,7 @@ title_full: Extradition Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ufo-hackers-such-as-e2dece-mckinnon/
+permalink: /ufo-hackers-such-as-e2dece-extradition/
 description: Focused pages that expand on Extradition.
 date: '2026'
 layout: default

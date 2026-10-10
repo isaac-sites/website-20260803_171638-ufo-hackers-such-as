@@ -4,7 +4,7 @@ title_full: Damage Claims Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ufo-hackers-such-as-e2dece-mckinnon/
+permalink: /ufo-hackers-such-as-e2dece-damage/
 description: Focused pages that expand on Damage Claims.
 date: '2026'
 layout: default
