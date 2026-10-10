@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-curiosity/
 description: Focused pages that expand on Motive and Law.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece_curiosity_hacking_re_2142d9
 parent_title: Motive and Law | UFO Hackers Such As Gary Mackinnon

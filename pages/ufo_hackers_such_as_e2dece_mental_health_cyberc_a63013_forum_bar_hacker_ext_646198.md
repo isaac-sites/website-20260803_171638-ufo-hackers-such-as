@@ -295,6 +295,7 @@ next_link:
   short_title: Suicide Risk
   heading_title: Why Suicide Risk Changed Mc Kinnon's Extradition Case
 date: '2026-08-03 16:30:28 '
+last_modified_at: '2026-08-03 16:30:28 '
 header:
   og_image: /assets/images/ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_forum_bar_hacker_ext_646198-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_forum_bar_hacker_ext_646198-Illustration-1.webp

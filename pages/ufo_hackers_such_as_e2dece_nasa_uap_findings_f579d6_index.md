@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-nasa-uap/
 description: Focused pages that expand on NASA Findings.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece_nasa_uap_findings_f579d6
 parent_title: NASA Findings | UFO Hackers Such As Gary Mackinnon

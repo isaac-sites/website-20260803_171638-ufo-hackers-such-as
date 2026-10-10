@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-02 18:00:05'
+last_modified_at: '2026-08-02 18:00:05'
 parent_title: How the Media Turned Mc Kinnon Into a Symbol | UFO Hackers
 parent_permalink: /media-narrative/
 parent_nav_short_title: Media Narrative

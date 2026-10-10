@@ -295,6 +295,7 @@ next_link:
   short_title: Network Shutdown
   heading_title: Did Nine Deleted Files Disable 2,000 Military Computers?
 date: '2026-08-03 16:27:42 '
+last_modified_at: '2026-08-03 16:27:42 '
 header:
   og_image: /assets/images/ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_earle_damage_costs_1b7e7f-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_earle_damage_costs_1b7e7f-Illustration-1.webp

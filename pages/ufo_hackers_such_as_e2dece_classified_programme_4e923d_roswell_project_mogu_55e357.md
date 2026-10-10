@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-02 16:52:40'
+last_modified_at: '2026-08-02 16:52:40'
 parent_title: When Classified Technology Looks Extraterrestrial | UFO Hackers Such As Gary Mackinnon
 parent_permalink: /secret-projects/
 parent_nav_short_title: Secret Projects

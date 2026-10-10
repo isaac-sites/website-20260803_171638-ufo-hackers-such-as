@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-mckinnon/
 description: Focused pages that expand on Case Timeline.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece_mckinnon_case_timeli_1002c4
 parent_title: Case Timeline | UFO Hackers Such As Gary Mackinnon

@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-02 08:07:29'
+last_modified_at: '2026-08-02 08:07:29'
 parent_title: How Can a UFO Hacking Story Be Verified? | UFO Hackers Such As Gary Mackinnon
 parent_permalink: /claim-checklist/
 parent_nav_short_title: Claim Checklist

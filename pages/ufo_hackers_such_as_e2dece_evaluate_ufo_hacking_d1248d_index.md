@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-evaluate/
 description: Focused pages that expand on Claim Checklist.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece_evaluate_ufo_hacking_d1248d
 parent_title: Claim Checklist | UFO Hackers Such As Gary Mackinnon

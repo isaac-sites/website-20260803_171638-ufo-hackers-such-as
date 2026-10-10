@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-circular/
 description: Focused pages that expand on Circular Claims.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece_circular_ufo_reporti_e4f5f1
 parent_title: Circular Claims | UFO Hackers Such As Gary Mackinnon

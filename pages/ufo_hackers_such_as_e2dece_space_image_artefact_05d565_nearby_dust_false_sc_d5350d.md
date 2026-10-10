@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-02 15:51:59'
+last_modified_at: '2026-08-02 15:51:59'
 parent_title: Could a Space Image Create a False UFO? | UFO Hackers
 parent_permalink: /image-artefacts/
 parent_nav_short_title: Image Artefacts

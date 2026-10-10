@@ -226,6 +226,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-02 13:01:58'
+last_modified_at: '2026-08-02 13:01:58'
 parent_title: How One Weak System Opened a Defence Network | UFO Hackers
 parent_permalink: /rome-laboratory/
 parent_nav_short_title: Rome Laboratory

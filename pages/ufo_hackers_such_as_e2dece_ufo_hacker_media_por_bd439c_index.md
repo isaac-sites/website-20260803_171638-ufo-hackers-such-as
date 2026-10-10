@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-ufo-hacker/
 description: Focused pages that expand on Media Narrative.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece_ufo_hacker_media_por_bd439c
 parent_title: Media Narrative | UFO Hackers Such As Gary Mackinnon

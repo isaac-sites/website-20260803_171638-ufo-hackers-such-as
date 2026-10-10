@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-early/
 description: Focused pages that expand on Early Insecurity.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece_early_internet_secur_0b32b0
 parent_title: Early Insecurity | UFO Hackers Such As Gary Mackinnon

@@ -295,6 +295,7 @@ next_link:
   short_title: UK Trial
   heading_title: Why Wasn't Mc Kinnon Tried in Britain?
 date: '2026-08-03 16:30:10 '
+last_modified_at: '2026-08-03 16:30:10 '
 header:
   og_image: /assets/images/ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_treaty_bala_6aa40c-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_hackers_such_as_e2dece_mckinnon_extradition_0322e0_mckinnon_treaty_bala_6aa40c-Illustration-1.webp

@@ -289,6 +289,7 @@ prev_link:
   short_title: Forum Bar
   heading_title: How the Forum Bar Rebalanced Hacker Extradition
 date: '2026-08-03 16:30:31 '
+last_modified_at: '2026-08-03 16:30:31 '
 header:
   og_image: /assets/images/ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_mckinnon_suicide_ris_0a249d-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_hackers_such_as_e2dece_mental_health_cyberc_a63013_mckinnon_suicide_ris_0a249d-Illustration-1.webp

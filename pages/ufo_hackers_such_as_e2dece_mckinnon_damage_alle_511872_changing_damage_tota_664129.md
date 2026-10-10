@@ -295,6 +295,7 @@ next_link:
   short_title: Dial Up Damage
   heading_title: Could 56 k Dial Up Really Disable Military Systems?
 date: '2026-08-03 16:29:58 '
+last_modified_at: '2026-08-03 16:29:58 '
 header:
   og_image: /assets/images/ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_changing_damage_tota_664129-Illustration-1-social.jpg
   preview_image: /assets/images/ufo_hackers_such_as_e2dece_mckinnon_damage_alle_511872_changing_damage_tota_664129-Illustration-1.webp
