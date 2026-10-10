@@ -4,7 +4,7 @@ title_full: Case Comparison Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ufo-hackers-such-as-e2dece-ufo-hacker/
+permalink: /ufo-hackers-such-as-e2dece-comparison/
 description: Focused pages that expand on Case Comparison.
 date: '2026'
 layout: default
