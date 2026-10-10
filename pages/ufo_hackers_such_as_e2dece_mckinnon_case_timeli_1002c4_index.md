@@ -4,7 +4,7 @@ title_full: Case Timeline Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ufo-hackers-such-as-e2dece-mckinnon/
+permalink: /ufo-hackers-such-as-e2dece-mckinnon-case-timeline/
 description: Focused pages that expand on Case Timeline.
 date: '2026'
 layout: default
