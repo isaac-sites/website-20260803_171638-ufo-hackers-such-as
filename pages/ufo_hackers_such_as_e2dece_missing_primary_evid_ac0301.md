@@ -55,7 +55,7 @@ permalink: /missing-proof/
 sidebar_expanded_urls:
 - /ufo-hackers-such-as-gary-mackinnon/
 nav_short_title: Missing Proof
-title: Why the Missing Evidence Changes Everything
+title: "Why the Missing Evidence Changes Everything (missing proof)"
 title_full: Why the Missing Evidence Changes Everything | UFO Hackers
 display_title_short: Missing Proof
 display_title: Missing Proof
