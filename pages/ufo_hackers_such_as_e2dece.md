@@ -1061,7 +1061,7 @@ Their stories deserve attention because they expose genuine security failures, t
 23.<a id="endnote-23"></a>
    Source: projectcamelotportal.com  
    Title: gary mckinnon hacking the pentagon re release copy 2  
-   Link:<a href="https://projectcamelotportal.com/2024/08/21/gary-mckinnon-hacking-the-pentagon-re-release-copy-2/" target="_blank" rel="noopener noreferrer nofollow">https://projectcamelotportal.com/2024/08/21/gary-mckinnon-hacking-the-pentagon-re-release-copy-2/</a>  
+   Link:https://projectcamelotportal.com/2024/08/21/gary-mckinnon-hacking-the-pentagon-re-release-copy-2/  
 
 24.<a id="endnote-24"></a>
    Source: theguardian.com  

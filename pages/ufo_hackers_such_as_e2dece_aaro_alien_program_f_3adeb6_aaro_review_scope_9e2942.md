@@ -879,7 +879,7 @@ For readers interested in cases such as those cited by UFO-motivated hackers inc
 
 9.<a id="endnote-9"></a>
    Source: ufotransparency.com  
-   Link:<a href="https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume" target="_blank" rel="noopener noreferrer nofollow">https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume</a>  
+   Link:https://ufotransparency.com/files/decade-2020s-aaro-historical-record-report-vol1-2024-aaro-historical-record-report-volume  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Historical Record Report, Volume I, 2024, DoD / All-domain Anomaly Resolution Office (AARO) · 2024 · UFO TransparencyMarch 8, 2024 —...</p></details>
    Published: March 8, 2024  
 
